@@ -1,0 +1,287 @@
+@import 'node_modules/newsapps-styles/init-helpers';
+@import 'node_modules/newsapps-styles/theme/graphic';
+
+@import 'base';
+
+$lightest: #f5f9fc;
+$mid-light: #c9d6df;
+$mid-dark: #52616a;
+$darkest: #1d1f21;
+
+$small: 450px;
+$sm-md: 550px;
+$medium: 950px;
+$large: 1250px;
+
+.footer {
+	height: 2.5em;
+	background-color: $mid-dark;
+}
+
+.footer-about {
+	padding: .8em 0 0 0;
+	@include media ($sm-md) {
+		padding: .5em;
+	}
+}
+
+.fa-bars {
+	color: $mid-dark;
+	float: right;
+	margin: .5em;
+}
+
+.fa.fa-cogs {
+	margin: 0 1em 0em 1em;
+}
+
+nav h5 .fa {
+	margin: 0 .5em 0em 2em;
+	display: none;
+	@include media($sm-md) {
+		display: inline-block;
+	}
+}
+
+.graphic {
+	padding: 1em;
+	background-color: $lightest;
+}
+
+h1, h5 {
+	font-weight: 800;
+}
+
+h1, h4 {
+	margin: 0em;
+}
+
+h1 {
+	color: $darkest;
+}
+
+h2 {
+	font-size: 1.25em;
+	line-height: 1.3em;
+}
+
+
+h3 {
+	font-size: 1.15em;
+	padding: .25em .5em .25em .5em;
+	font-style: italic;
+	color: $mid-dark;
+}
+
+
+h4 {
+	color: $mid-light;
+	text-align: center;
+	padding: .5em;
+	font-weight: 300;
+	font-size: .9em;
+	@include media ($sm-md) {
+		font-size: 1em;
+	}
+}
+
+.hed {
+	padding: 0em 0em 0em .5em;
+	width: 80%; 
+	float: left;
+	display: -webkit-box;
+	margin: 0 auto;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.info-two {
+	display: none;
+	cursor: hand;
+	cursor: pointer;
+}
+
+.info-two:hover {
+	color: $mid-light;
+}
+
+.info-text {
+	cursor: hand;
+	cursor: pointer;
+}
+
+.info-text:hover {
+	color: $mid-light;
+}
+
+div.item.two {
+	clear: both;
+	@include media($medium) {
+		clear: none;
+	}
+}
+
+div.item.two.four {
+	clear: both;
+	@include media($medium) {
+		clear: none;
+	}
+	@include media($large) {
+		clear: both;
+	}
+}
+
+div.item.three{
+	clear: none;
+	@include media($medium) {
+		clear: both;
+	}
+	@include media($large) {
+		clear: none;
+	}
+}
+
+div.item.four{
+	clear: none;
+	@include media($large) {
+	clear: both;
+	}
+}
+
+div.item.last{
+	display: none;
+	@include media($sm-md) {
+		display: block;
+	}
+}
+
+.item-img {
+	width: 100%;
+}
+
+.item {
+	@include clearfix;
+	float: left;
+	padding: .5em 1.75em .5em 1.75em;
+	margin: 1em 0em 2em;
+	width: 100%;
+	@include media($sm-md) {
+		width: 50%;
+		margin: 0 0 1em;
+		h3 {
+			font-size: 1.17em;
+		}
+	}
+	@include media($medium) {
+		width: 33%;
+	}
+	@include media($large) {
+		width: 25%;
+	}
+}
+
+.item-text {
+	display: none;
+	position: relative;
+	float: left;
+}
+
+.logo {
+	width: 20%;
+	padding: .5em .5em .5em 0em;
+	float: left;
+}
+
+.m {
+	height: 3em;
+	padding: .5em;
+	float: left;
+	vertical-align: text-top;
+}
+
+.nav-bar {
+	height: 3em;
+	background-color: $darkest;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+}
+
+p {
+	color: $mid-dark;
+}
+
+#projects {
+	@include clearfix;
+}
+
+.section {
+	padding-bottom: 4em;
+	@include clearfix;
+	position: relative;
+	margin: 0% 0% 0% 0%;
+	@include media($small) {
+		margin: 0% 5% 0% 5%;
+	}
+	@include media($sm-md) {
+		margin: 0% 8% 0% 8%;
+	}
+	@include media($medium) {
+		margin: 0% 10% 0% 10%;
+	}
+	h1{
+		font-size: 2em;
+		margin: 0em;
+		font-weight: 800;
+	}
+	h3 {
+		font-weight: 400;
+	}
+	h2 {
+		font-weight: 500;
+	}
+}
+
+.see-more {
+	clear: both;
+	.fa {
+		padding-top: 10px;
+		color: $mid-dark;
+	}
+	h3 {
+		float: left;
+	}
+}
+
+.selection {
+	float: right;
+	margin: .25em 1em;
+	@include media ($sm-md) {
+		margin: 0 1em;
+	}
+}
+
+.tab {
+    float: left;
+    padding: .25em 0em .25em .25em;
+    @include media ($medium) {
+    	padding: .25em .5em .25em .5em;
+    }
+    h4 {
+    	color: $lightest;
+    	display: inline-block;
+    } 
+    i.fa {
+    	color: $lightest;
+    	display: none;
+    	@include media ($medium) {
+    		display: inline-block;
+    	}
+    }
+}
+
+
+

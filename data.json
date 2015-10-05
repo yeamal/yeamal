@@ -1,0 +1,1176 @@
+{
+  "META": {
+    "website_title": "Mallory Busch"
+  },
+  "frontcode": [
+    {
+      "name": "Failing Schools Flowchart",
+      "img": "flowchart.png",
+      "description": "A responsive flowchart laying out the complicated process for school closures in Texas. Wording changes based on whether the user opens the flowchart in desktop or mobile.",
+      "link": "http://www.texastribune.org/2015/08/13/texas-hold-districts-accountable-failing-schools/?utm_source=texastribune.org&utm_medium=rss&utm_campaign=Tribune%20Feed:%20None?utm_source=31ways_navslider",
+      "date": 42229,
+      "position": "News Apps Fellow",
+      "logo": "texas.png",
+      "tools": "JavaScript. Scss."
+    },
+    {
+      "name": "Map of Texas Emergency Centers",
+      "img": "map.png",
+      "description": "Took an Excel spreadsheet of street addresses and turned it into this cluster map showing the distribution of freestanding emergency centers in Texas.",
+      "classes": "code",
+      "link": "http://www.texastribune.org/2015/08/15/new-option-parents-hoping-safely-abandon-newborn/",
+      "date": 42231,
+      "organization": "The Texas Tribune",
+      "logo": "texas.png",
+      "tools": "Excel. Fusion Tables. CSVKit. Google Earth. MapBox."
+    },
+    {
+      "name": "Breakdown: Texas County Jails Deaths",
+      "img": "suicides.png",
+      "description": "Following Sandra Bland's death in custody, I visualized Texas County jail deaths in terms of race/gender and type of item used for suicides (the item used in Bland's death had been the subject of debate).",
+      "link": "http://www.texastribune.org/2015/07/24/hanging-most-common-suicide-method-texas-jails/",
+      "date": 42209,
+      "position": "News Apps Fellow",
+      "logo": "texas.png",
+      "tools": "Excel. Font Awesome. Scss.",
+      "two": "y"
+    },
+    {
+      "name": "At Majority-Minority Schools, Confederate Names Remain",
+      "img": "confed-schools.png",
+      "description": "In my first week at The Texas Tribune, Confederate symbols were under national debate. I pitched this project –– a look at the public schools in Texas named after prominent Confederate figures, and the schools' racial make-up. Most of these schools were majority-minority. ",
+      "classes": "code",
+      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
+      "date": 42186,
+      "organization": "The Texas Tribune",
+      "position": "News Apps Fellow",
+      "logo": "texas.png",
+      "tools": "Excel. CSVkit. Scss. ",
+      "three": "y",
+      "long": "y",
+      "last": "y"
+    },
+    {
+      "name": "Putting on a Happy Face",
+      "img": "happyface.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/evanston/",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "position": "Digital Producer",
+      "logo": "nbn.png",
+      "tools": "Scss. Timeline. Datawrapper. Yeoman.",
+      "two": "y",
+      "four": "y",
+      "last": "y"
+    },
+    {
+      "name": "Romaine",
+      "img": "romaine.gif",
+      "description": "Romaine gives students at Northwestern the ability to choose their classes based on which courses their friends have chosen, using the APIs of Facebook and Northwestern. The majority of my contribution to this app focused on search design and user experience. ",
+      "classes": "code",
+      "link": "https://romaine.herokuapp.com/",
+      "date": 41974,
+      "organization": "Knight Lab",
+      "position": "Student Fellow",
+      "logo": "knightlab.png",
+      "tools": "JavaScript. CSS.",
+      "last": "y"
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Code",
+      "fa": "fa-code"
+    },
+    {
+      "name": "Audience",
+      "fa": "fa-users"
+    },
+    {
+      "name": "Video",
+      "fa": "fa-video-camera"
+    },
+    {
+      "name": "Writing",
+      "fa": "fa-pencil"
+    },
+    {
+      "name": "Design",
+      "fa": "fa-object-group"
+    }
+  ],
+  "frontaudience": [
+    {
+      "name": "Quote Cards",
+      "img": "maya-angelou.png",
+      "classes": "design aud-dev",
+      "link": "https://twitter.com/TIME/status/603980353833951233",
+      "date": 42095,
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png"
+    },
+    {
+      "name": "GIFs for TIME and Time Inc.",
+      "img": "Emma-Sulkowicz-2.gif",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
+      "date": 42125,
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png"
+    },
+    {
+      "name": "Photo Cards",
+      "img": "misspiggy.png",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist",
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png",
+      "two": "y"
+    },
+    {
+      "name": "TIME Tumblr",
+      "img": "groban.gif",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118380668471/your-twenties",
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png",
+      "three": "y",
+      "long": "y",
+      "last": "y"
+    },
+    {
+      "name": "TIME + Snapchat",
+      "logo": "time.png",
+      "two": "y",
+      "four": "y",
+      "last": "y"
+    },
+    {
+      "name": "TIME + Spotify",
+      "link": "http://time.com/3907828/song-of-the-summer-2015-playlist/?p=3907828?xid=tcoshare",
+      "logo": "time.png",
+      "last": "y"
+    }
+  ],
+  "code": [
+    {
+      "name": "At Majority-Minority Schools, Confederate Names Remain",
+      "img": "confed-schools.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "classes": "code",
+      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
+      "date": 42186,
+      "organization": "The Texas Tribune",
+      "position": "News Apps Fellow",
+      "logo": "texas.png"
+    },
+    {
+      "name": "Facing the Truth",
+      "img": "facingtruth.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/diversity",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "position": "Digital Producer",
+      "logo": "nbn.png",
+      "undefined": "jQuery. Scss. Yeoman."
+    },
+    {
+      "name": "Putting on a Happy Face",
+      "img": "econ.gif",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/evanston/",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "position": "Digital Producer",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "Romaine",
+      "img": "romaine.gif",
+      "classes": "code",
+      "link": "https://romaine.herokuapp.com/",
+      "date": 41974,
+      "organization": "Knight Lab",
+      "position": "Student Fellow",
+      "logo": "knightlab.png"
+    },
+    {
+      "name": "Ahead of His Time",
+      "img": "wrestling.gif",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/wrestling/",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "position": "Digital Producer",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "It Happens Here",
+      "img": "here.gif",
+      "classes": "code",
+      "link": "http://ianfrancisrobinson.github.io/jour320/",
+      "date": 41699,
+      "organization": "Northwestern University",
+      "position": "Student",
+      "logo": "nu.jpg"
+    },
+    {
+      "name": "North by Northwestern Winter Magazine 2015",
+      "img": "mag.png",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/index/",
+      "date": 42064
+    },
+    {
+      "name": "The Grade Escape",
+      "img": "grade.png",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/"
+    },
+    {
+      "name": "Life Advice",
+      "img": "advice.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/life-advice/"
+    },
+    {
+      "name": "Lord of the Rink",
+      "img": "ice.gif",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/iceskating/"
+    },
+    {
+      "name": "Street Beat",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/",
+      "undefined": "DEVICE DIVIDE MISSING"
+    },
+    {
+      "name": "Game of Moans",
+      "img": "moans.png",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/game-of-moans/",
+      "undefined": "NU PHONE HOME MISSING"
+    },
+    {
+      "name": "Seeking Faith",
+      "img": "faith.png",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/seeking-faith/",
+      "undefined": "DEVICE DIVIDE MISSING"
+    },
+    {
+      "name": "Putt-ing Up With the Cold",
+      "img": "putting.png",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/patten/",
+      "undefined": "NU PHONE HOME MISSING"
+    },
+    {
+      "name": "Tree of (Battery) Life",
+      "img": "tree.png",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/tree-of-battery-life/"
+    },
+    {
+      "name": "Rested and Recharged",
+      "img": "rested.jpg",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/rested-and-recharged/"
+    },
+    {
+      "name": "{Not otherwise specified}",
+      "img": "ednos.png",
+      "description": "The stress of college life has dire consequences for those with disordered eating.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/ednos/"
+    },
+    {
+      "name": "Do you believe in Magic?",
+      "img": "magic.png",
+      "description": "Three students connect with their peers through slight of hand.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/magic/"
+    },
+    {
+      "name": "Come One, Come All",
+      "img": "dildo.png",
+      "description": "Dive head first into the Chicago sex shop scene",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/sex/"
+    },
+    {
+      "name": "Cage Match",
+      "img": "cage.png",
+      "description": "When students compete for school film equipment, nobody wins.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/rtvf/"
+    },
+    {
+      "name": "Venbro",
+      "link": "https://twitter.com/yeamal/status/599718739802791936"
+    }
+  ],
+  "audience": [
+    {
+      "name": "Emma Sulkowicz gifs",
+      "img": "Emma-Sulkowicz-2.gif",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
+      "date": 42125,
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png"
+    },
+    {
+      "name": "Quote Cards",
+      "img": "maya-angelou.png",
+      "classes": "design aud-dev",
+      "link": "https://twitter.com/TIME/status/603980353833951233",
+      "date": 42095,
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png"
+    },
+    {
+      "name": "Nick Offerman gifs",
+      "img": "nick.gif",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/121210099989/nick-offerman-ron-swanson"
+    },
+    {
+      "name": "Miss Piggy Quote Card",
+      "img": "misspiggy.png",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist"
+    },
+    {
+      "name": "Pitch Perfect Gif",
+      "img": "pitch.gif",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118980957243/pitch-perfect-name-generator"
+    },
+    {
+      "name": "Mad Men Quote Cards",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118969224460/mad-men-history"
+    },
+    {
+      "name": "Josh Groban gifs",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118453532458/josh-groban-dad-joke"
+    },
+    {
+      "name": "YA Book Gifs",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118216915584/100-best-young-adult-novels"
+    },
+    {
+      "name": "Tumblr Post Example",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118380668471/your-twenties"
+    },
+    {
+      "name": "Sally Jewel Quote Card",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118449592949/sally-jewell-mothers-day"
+    },
+    {
+      "name": "12 Reasons Why Dehydration is Bad for Your Body ",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/120459677844/dehydration"
+    },
+    {
+      "name": "Laverne Cox Quote Card",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/120647054090"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/538745156389068800"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/538744861227507714"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/520618165681000448"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/517707628836036608"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/505066839274438656"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/480398510458929152"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/443475216035889152"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/436642999783542785"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/515887143449669633"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/512419363626835968"
+    },
+    {
+      "name": "What Should I Watch on Netflix? A Flowchart Journey",
+      "classes": "design",
+      "link": "http://sherman-ave.com/what-should-i-watch-on-netflix-a-flowchart-journey/"
+    },
+    {
+      "name": "Be Prepared",
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
+    },
+    {
+      "name": "Fortune Social Cards",
+      "link": "https://twitter.com/FortuneMagazine/status/608443796557328388",
+      "logo": "time.png"
+    },
+    {
+      "name": "Money Social Cards",
+      "link": "https://twitter.com/MONEY/status/608557755000057856",
+      "logo": "time.png"
+    }
+  ],
+  "video": [
+    {
+      "name": "Purple Morphsuit Dances Around Northwestern University",
+      "img": "nbndm.gif",
+      "classes": "video",
+      "link": "https://vimeo.com/87242288",
+      "date": 41699,
+      "organization": "North by Northwestern",
+      "position": "Video Co-Editor",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "Interviewing Students After 30 Hours of Dancing",
+      "img": "dm.png",
+      "classes": "video",
+      "link": "https://www.youtube.com/watch?v=J_KAnrJSCok",
+      "date": 41709
+    },
+    {
+      "name": "We Will. The Campaign for Northwestern Parody",
+      "link": "https://www.youtube.com/watch?v=meA87TasIuc"
+    },
+    {
+      "name": "Behind the Scenes: Purple Morphsuit Dancing",
+      "img": "behind.png",
+      "link": "https://www.youtube.com/watch?v=NUWpyp47OwQ&spfreload=1"
+    },
+    {
+      "name": "Medill's IMC Program Collaborates with Fox Sports",
+      "img": "img.png",
+      "link": "https://www.youtube.com/watch?v=MtcUl7UYQDo"
+    },
+    {
+      "name": "The rush after Rush",
+      "img": "rush.png",
+      "link": "https://vimeo.com/84279628"
+    },
+    {
+      "name": "The religious response: Edgewater's communities of faith stand up for the LGBT cause",
+      "img": "religious,png",
+      "link": "https://vimeo.com/81016015"
+    },
+    {
+      "name": "Independent Spirits brings fine wine to Edgewater",
+      "img": "wine.png",
+      "link": "https://vimeo.com/76402009"
+    },
+    {
+      "name": "SASA brings Holi celebration to NU",
+      "img": "holi.png",
+      "link": "https://vimeo.com/65114705"
+    },
+    {
+      "name": "NU students prepare for Tough Mudder",
+      "img": "tough.png",
+      "link": "https://vimeo.com/61236734"
+    },
+    {
+      "name": "Art Institute kicks off free student admission at Northwestern Night",
+      "classes": "video",
+      "link": "http://www.northbynorthwestern.com/story/art-institute-kicks-off-free-student-admission-at-/"
+    },
+    {
+      "classes": "video",
+      "link": "http://www.northbynorthwestern.com/story/looking-inside-an-apartment-art-gallery/"
+    }
+  ],
+  "design": [
+    {
+      "name": "How to Buy The Perfect Christmas Gift",
+      "classes": "design",
+      "link": "http://sherman-ave.com/sherman-aves-guide-to-gift-buying/"
+    },
+    {
+      "name": "What Should I Watch on Netflix? A Flowchart Journey",
+      "classes": "design",
+      "link": "http://sherman-ave.com/what-should-i-watch-on-netflix-a-flowchart-journey/"
+    },
+    {
+      "name": "Sherman Ave's Guide to Gift-Buying (Flowchart)",
+      "classes": "design",
+      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
+    }
+  ],
+  "contact": [
+    {
+      "img": "twitterLogo.png",
+      "link": "https://twitter.com/yeamal"
+    },
+    {
+      "img": "linkedinLogo.png",
+      "link": "https://www.linkedin.com/in/yeamal"
+    },
+    {
+      "img": "emailLogo.png",
+      "link": "mailto:m.mallorybusch@gmail.com"
+    }
+  ],
+  "all": [
+    {
+      "name": "At Majority-Minority Schools, Confederate Names Remain",
+      "img": "confed-schools.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "classes": "code",
+      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
+      "date": 42186,
+      "organization": "The Texas Tribune",
+      "position": "News Apps Fellow",
+      "logo": "texas.png"
+    },
+    {
+      "name": "Emma Sulkowicz gifs",
+      "img": "Emma-Sulkowicz-2.gif",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
+      "date": 42125,
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png"
+    },
+    {
+      "name": "Quote Cards",
+      "img": "maya-angelou.png",
+      "classes": "design aud-dev",
+      "link": "https://twitter.com/TIME/status/603980353833951233",
+      "date": 42095,
+      "organization": "TIME",
+      "position": "Audience Development Intern",
+      "logo": "time.png"
+    },
+    {
+      "name": "Facing the Truth",
+      "img": "diversity.gif",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/diversity",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "position": "Digital Producer",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "Putting on a Happy Face",
+      "img": "econ.gif",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/evanston/",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "position": "Digital Producer",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "Romaine",
+      "img": "romaine.gif",
+      "classes": "code",
+      "link": "https://romaine.herokuapp.com/",
+      "date": 41974,
+      "organization": "Knight Lab",
+      "position": "Student Fellow",
+      "logo": "knightlab.png"
+    },
+    {
+      "name": "Ahead of His Time",
+      "img": "wrestling.gif",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/wrestling/",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "position": "Digital Producer",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "NorCal Adventure",
+      "img": "norcal.gif",
+      "classes": "video",
+      "link": "https://vimeo.com/105493968",
+      "date": 41852,
+      "logo": "personal.jpg"
+    },
+    {
+      "name": "It Happens Here",
+      "img": "here.gif",
+      "classes": "code",
+      "link": "http://ianfrancisrobinson.github.io/jour320/",
+      "date": 41699,
+      "organization": "Northwestern University",
+      "position": "Student",
+      "logo": "nu.jpg"
+    },
+    {
+      "name": "Purple Morphsuit Dances Around Northwestern University",
+      "img": "nbndm.gif",
+      "classes": "video",
+      "link": "https://vimeo.com/87242288",
+      "date": 41699,
+      "organization": "North by Northwestern",
+      "position": "Video Co-Editor",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "North by Northwestern Winter Magazine 2015",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/index/",
+      "date": 42064
+    },
+    {
+      "undefined": "JUN SUNG AHN MISSING"
+    },
+    {
+      "name": "The Grade Escape",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/"
+    },
+    {
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/life-advice/"
+    },
+    {
+      "name": "Lord of the Rink",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/iceskating/"
+    },
+    {
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/",
+      "undefined": "DEVICE DIVIDE MISSING"
+    },
+    {
+      "name": "Game of Moans",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/game-of-moans/",
+      "undefined": "NU PHONE HOME MISSING"
+    },
+    {
+      "name": "Seeking Faith",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/seeking-faith/",
+      "undefined": "DEVICE DIVIDE MISSING"
+    },
+    {
+      "name": "Putt-ing Up With the Cold",
+      "img": "putting.png",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/patten/",
+      "undefined": "NU PHONE HOME MISSING"
+    },
+    {
+      "name": "Tree of (Battery) Life",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/tree-of-battery-life/"
+    },
+    {
+      "name": "Rested and Recharged",
+      "classes": "code",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/rested-and-recharged/"
+    },
+    {
+      "name": "Nick Offerman gifs",
+      "img": "nick.gif",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/121210099989/nick-offerman-ron-swanson",
+      "undefined": "ON CAMPUS HOUSING MISSING PHOTOS"
+    },
+    {
+      "name": "Miss Piggy Quote Card",
+      "img": "misspiggy.png",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist",
+      "undefined": "SHERIDAN SHUFFLE MISSING"
+    },
+    {
+      "name": "Pitch Perfect Gif",
+      "img": "pitch.gif",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118980957243/pitch-perfect-name-generator",
+      "undefined": "ENCYCLOTEADIA MISSING"
+    },
+    {
+      "name": "Mad Men Quote Cards",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118969224460/mad-men-history"
+    },
+    {
+      "name": "Josh Groban gifs",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118453532458/josh-groban-dad-joke"
+    },
+    {
+      "name": "YA Book Gifs",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118216915584/100-best-young-adult-novels"
+    },
+    {
+      "name": "Tumblr Post Example",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118380668471/your-twenties"
+    },
+    {
+      "name": "Sally Jewel Quote Card",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/118449592949/sally-jewell-mothers-day"
+    },
+    {
+      "name": "12 Reasons Why Dehydration is Bad for Your Body ",
+      "classes": "aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/120459677844/dehydration"
+    },
+    {
+      "name": "Laverne Cox Quote Card",
+      "classes": "design aud-dev",
+      "link": "http://timemagazine.tumblr.com/post/120647054090"
+    },
+    {
+      "name": "How to Buy The Perfect Christmas Gift",
+      "classes": "design",
+      "link": "http://sherman-ave.com/sherman-aves-guide-to-gift-buying/"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/538745156389068800"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/538744861227507714"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/520618165681000448"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/517707628836036608"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/505066839274438656"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/480398510458929152"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/443475216035889152"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/436642999783542785"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/515887143449669633"
+    },
+    {
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/512419363626835968"
+    },
+    {
+      "name": "What Should I Watch on Netflix? A Flowchart Journey",
+      "classes": "design",
+      "link": "http://sherman-ave.com/what-should-i-watch-on-netflix-a-flowchart-journey/"
+    },
+    {
+      "name": "Be Prepared",
+      "classes": "aud-dev",
+      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
+    },
+    {
+      "name": "Sherman Ave's Guide to Gift-Buying (Flowchart)",
+      "classes": "design",
+      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
+    },
+    {
+      "name": "Interviewing Students After 30 Hours of Dancing",
+      "img": "dm.png",
+      "classes": "video",
+      "link": "https://www.youtube.com/watch?v=J_KAnrJSCok",
+      "date": 41709
+    },
+    {
+      "name": "A&O partners with environmental groups for indoor Philfest concert",
+      "link": "http://dailynorthwestern.com/2013/05/12/campus/ao-partners-with-environmental-groups-for-indoor-philfest-concert/"
+    },
+    {
+      "name": "{Not otherwise specified}",
+      "img": "ednos.png",
+      "description": "The stress of college life has dire consequences for those with disordered eating.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/ednos/"
+    },
+    {
+      "name": "Do you believe in Magic?",
+      "description": "Three students connect with their peers through slight of hand.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/magic/"
+    },
+    {
+      "name": "Come One, Come All",
+      "description": "Dive head first into the Chicago sex shop scene",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/sex/"
+    },
+    {
+      "name": "Cage Match",
+      "description": "When students compete for school film equipment, nobody wins.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/rtvf/"
+    },
+    {
+      "name": "We Will. The Campaign for Northwestern Parody",
+      "link": "https://www.youtube.com/watch?v=meA87TasIuc"
+    },
+    {
+      "name": "Behind the Scenes: Purple Morphsuit Dancing",
+      "img": "behind.png",
+      "link": "https://www.youtube.com/watch?v=NUWpyp47OwQ&spfreload=1"
+    },
+    {
+      "name": "Medill's IMC Program Collaborates with Fox Sports",
+      "img": "img.png",
+      "link": "https://www.youtube.com/watch?v=MtcUl7UYQDo"
+    },
+    {
+      "name": "The rush after Rush",
+      "img": "rush.png",
+      "link": "https://vimeo.com/84279628"
+    },
+    {
+      "name": "The religious response: Edgewater's communities of faith stand up for the LGBT cause",
+      "img": "religious,png",
+      "link": "https://vimeo.com/81016015"
+    },
+    {
+      "name": "Independent Spirits brings fine wine to Edgewater",
+      "img": "wine.png",
+      "link": "https://vimeo.com/76402009"
+    },
+    {
+      "name": "SASA brings Holi celebration to NU",
+      "img": "holi.png",
+      "link": "https://vimeo.com/65114705"
+    },
+    {
+      "name": "NU students prepare for Tough Mudder",
+      "img": "tough.png",
+      "link": "https://vimeo.com/61236734"
+    },
+    {
+      "name": "Art Institute kicks off free student admission at Northwestern Night",
+      "classes": "video",
+      "link": "http://www.northbynorthwestern.com/story/art-institute-kicks-off-free-student-admission-at-/"
+    },
+    {
+      "classes": "video",
+      "link": "http://www.northbynorthwestern.com/story/looking-inside-an-apartment-art-gallery/"
+    }
+  ],
+  "key": [
+    {
+      "word": "Audience Development",
+      "class": "aud-dev"
+    },
+    {
+      "word": "Code and Data",
+      "class": "code"
+    },
+    {
+      "word": "Design",
+      "class": "design"
+    },
+    {
+      "word": "Videography",
+      "class": "video"
+    }
+  ],
+  "writing": [
+    {
+      "hed": "Twitter Was Not Okay With the 'Black Wedding' on Game of Thrones",
+      "link": "http://time.com/3882457/game-of-thrones-twitter-reactions-stark-wedding/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "World of Warcraft Bans 'A Large Number' of Players",
+      "link": "http://time.com/3860623/world-warcraft-ban/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "Watch Han Solo Return in the New Trailer for Star Wars: The Force Awakens",
+      "link": "http://time.com/3825006/watch-han-solo-return-in-the-new-trailer-for-star-wars-the-force-awakens/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "Anna Kendrick is Not Impressed With Princess Charlotte",
+      "link": "http://time.com/3861429/princess-charlotte-anna-kendrick/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "Louisiana Black Bear is No Longer Endangered",
+      "link": "http://time.com/3891248/louisiana-black-bear-not-endangered/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "110-year-old Man Says a Beer a Day is the Secret to Longevity",
+      "link": "http://time.com/3892225/longevity-beer-a-day/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "Read Tom Brady's Heartfelt Letter to Wife Gisele Bündchen on her Retirement",
+      "link": "http://time.com/3825081/tom-brady-gisele-bundchen-letter/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "Watch Anna Kendrick Lip Sync Her Love for Emily Blunt",
+      "link": "http://time.com/3824895/anna-kendrick-emily-blunt-lip-sync-battle/",
+      "publication": "TIME",
+      "class": "time"
+    },
+    {
+      "hed": "Long a challenge, Snapchat delivers crowd-sourced storytelling",
+      "link": "http://knightlab.northwestern.edu/2015/03/25/long-a-challenge-snapchat-delivers-crowd-sourced-storytelling/",
+      "publication": "Knight Lab",
+      "class": "lab"
+    },
+    {
+      "hed": "NICAR15: 10 tips to avoid data mistakes in the newsroom",
+      "link": "http://knightlab.northwestern.edu/2015/03/07/nicar15-10-tips-to-avoid-data-mistakes-in-the-newsroom/",
+      "publication": "Knight Lab",
+      "class": "lab"
+    },
+    {
+      "hed": "Rethinking the listicle. What Can It Do For \"Serious\" News?",
+      "link": "http://knightlab.northwestern.edu/2014/11/12/rethinking-the-listicle-what-can-it-do-for-serious-news/",
+      "publication": "Knight Lab",
+      "class": "lab"
+    },
+    {
+      "hed": "MozFest 2014: Gotta lotta analog data? Crowdsourcing may make it useful for you and fun for readers",
+      "link": "http://knightlab.northwestern.edu/2014/10/26/mozfest-2014-gotta-lotta-analog-data-crowdsourcing-may-make-it-useful-for-you-and-fun-for-readers/",
+      "publication": "Knight Lab",
+      "class": "lab"
+    },
+    {
+      "hed": "Event recap: Twitter talks elections, politics, and data",
+      "link": "http://knightlab.northwestern.edu/2014/07/15/event-recap-twitter-talks-elections-politics-and-data/",
+      "publication": "Knight Lab",
+      "class": "lab"
+    },
+    {
+      "hed": "Chicago Bureau gives Medill students the chance to report on juvenile justice",
+      "link": "http://www.medill.northwestern.edu/news/feature-chicago-bureau-gives-students-chance-to-report-on-juvenile-justice.html",
+      "date": 41757,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Alan Yu (BSJ13, MSJ13) Wins Kroc Fellowship",
+      "link": "http://www.medill.northwestern.edu/news/news-alan-yu-kroc-fellowship.html",
+      "date": 41432,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Clinton and Emanuel talk politics, ‘Hard Choices’ in Chicago",
+      "link": "http://www.medill.northwestern.edu/news/news-2014-clinton-and-emanuel-talk-politics,-hard-choices-in-chicago.html",
+      "date": 41806,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Medill Media Teens featured on Big Ten Network",
+      "link": "http://www.medill.northwestern.edu/news/news-medill-media-teens-featured-on-big-ten-network.html",
+      "date": 41661,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "IMC undergraduate certificate students create campaign for Fox Sports",
+      "link": "http://www.medill.northwestern.edu/news/news-imc-fox-sports.html",
+      "date": 41441,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Chicago broadcasters speak at Medill for Asian American Student Journalists event",
+      "link": "http://www.medill.northwestern.edu/news/news-broadcasters-speak-student-journalists.html",
+      "date": 41414,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Medill Cherubs are most diverse class yet",
+      "link": "http://www.medill.northwestern.edu/news/news-cherubs-diverse.html",
+      "date": 41442,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "IMC Certificate Program graduates record class",
+      "link": "http://www.medill.northwestern.edu/news/news-imc-certificate-2013-graduation.html",
+      "date": 41450,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Knight Lab starts school year with new innovations",
+      "link": "http://www.medill.northwestern.edu/news/news-knight-lab-2013-school-year-new-innovations.html",
+      "date": 41543,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "IMC faculty, students take part in Social Media Week",
+      "link": "http://www.medill.northwestern.edu/news/news-imc-social-media-week-september-2013.html",
+      "date": 41547,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Documentary Class showcases student films",
+      "link": "http://www.medill.northwestern.edu/news/news-documentary-class.html",
+      "date": 41445,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Professor David Abrahamson honored with lifetime achievement award",
+      "link": "http://www.medill.northwestern.edu/news/news-abrahamson-lifetime.html",
+      "date": 41465,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "High school students immerse in journalism at Medill",
+      "link": "http://www.medill.northwestern.edu/news/news-high-school-journalism-day-2013.html",
+      "date": 41577,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Quaker PepsiCo marketers discuss consumer insights, brand engagement",
+      "link": "http://www.medill.northwestern.edu/news/news-talentq-quaker-pepsico.html",
+      "date": 41562,
+      "publication": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "hed": "Friday Night Rites",
+      "link": "http://www.northbynorthwestern.com/story/friday-night-rites/",
+      "date": 41424,
+      "publication": "North by Northwestern",
+      "class": "nbn"
+    },
+    {
+      "hed": "My year in Ho House",
+      "link": "http://www.northbynorthwestern.com/story/first-impressions-freshman-housing/",
+      "publication": "North by Northwestern",
+      "class": "nbn"
+    },
+    {
+      "hed": "Where are they now?",
+      "link": "http://www.northbynorthwestern.com/story/where-are-they-now/",
+      "publication": "North by Northwestern",
+      "class": "nbn"
+    },
+    {
+      "hed": "ReFusionShocka will rock ya",
+      "link": "http://www.northbynorthwestern.com/story/refusionshaka-will-rock-ya/",
+      "publication": "North by Northwestern",
+      "class": "nbn"
+    },
+    {
+      "hed": "Evanston couple turns passion for photography into full business",
+      "link": "http://dailynorthwestern.com/2013/05/07/city/evanston-couple-turns-passion-for-university-photography-into-full-business/",
+      "publication": "The Daily Northwestern",
+      "class": "daily"
+    },
+    {
+      "hed": "Pi Kappa Alpha hosts run for Boston on the Lakefill",
+      "link": "http://dailynorthwestern.com/2013/04/28/campus/pi-kappa-alpha-hosts-run-for-boston-on-the-lakefill/",
+      "publication": "The Daily Northwestern",
+      "class": "daily"
+    },
+    {
+      "hed": "Should you make a flowchart?",
+      "link": "http://sherman-ave.com/should-you-make-a-flowchart/",
+      "publication": "Sherman Ave",
+      "class": "sa"
+    }
+  ],
+  "writingkey": [
+    {
+      "word": "Medill Marketing",
+      "class": "medill"
+    },
+    {
+      "word": "North by Northwestern",
+      "class": "nbn"
+    },
+    {
+      "word": "TIME.com",
+      "class": "time"
+    },
+    {
+      "word": "Knight Lab",
+      "class": "lab"
+    },
+    {
+      "word": "Sherman Ave",
+      "class": "sa"
+    },
+    {
+      "word": "The Daily Northwestern",
+      "class": "daily"
+    }
+  ]
+}

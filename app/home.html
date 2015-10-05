@@ -1,0 +1,43 @@
+{% block home %}
+    <div class="section" id="code">
+      <h1>Code + Data</h1>
+      <h3 class="info-two">(Hide descriptions...)</h3>
+      <h3 class="info-text">(Show descriptions...)</h3>
+        {% for row in frontcode %}
+          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %}"> 
+            <div class="top-label">
+              <img class="logo" src="assets/images/{{ row.logo }}">
+              <h2 class="hed">{{ row.name }}</h2>
+            </div>
+            <a href="{{ row.link }}" target="_blank">
+              <img class="item-img" src="assets/images/{{ row.img }}">
+            </a>
+            <div class="item-text">
+              <p>{{ row.description }}</p>
+              <h5>{{ row.tools }}</h5>
+            </div>
+          </div>
+        {% endfor %}
+      <div class="see-more"><h3><em>See more</em></h3><i class="fa fa-angle-double-right"></i></div>
+    </div>
+
+    <div class="section" id="audience">
+      <h1>Audience Development</h1>
+        {% for row in frontaudience %}
+          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %}"> 
+            <div class="top-label">
+              <img class="logo" src="assets/images/{{ row.logo }}">
+              <h2 class="hed">{{ row.name }}</h2>
+            </div>
+            <a href="{{ row.link }}" target="_blank">
+              <img class="item-img" src="assets/images/{{ row.img }}">
+            </a>
+            <div class="item-text">
+              <p>{{ row.description }}</p>
+              <h5>{{ row.tools }}</h5>              
+            </div>
+          </div>
+        {% endfor %}
+      <div class="see-more"><h3><em>See more</em></h3><i class="fa fa-angle-double-right"></i></div>
+    </div>
+{% endblock %}

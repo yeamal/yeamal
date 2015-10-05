@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> Mallory Busch </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- build:css styles/main.min.css -->
+  <link rel="stylesheet" href="styles/main.css">
+  <!-- endbuild -->
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="icon" href="assets/images/favicon.png" type="image/png">
+</head>
+<body>
+
+  <nav class="nav-bar">
+    <img class="m" src="assets/images/m.png" type="image/png">
+    <div class="selection">
+      {% for row in tabs %}
+      <div class="tab"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></div>
+      {% endfor %}
+    </div>
+  </nav>
+
+  <div class="graphic">
+    <div id="graphic-container">
+    {% include "home.html" %}
+
+    {% block home %}
+    {% endblock %}
+    </div><!--End div#graphic-container-->
+  </div>
+
+<div class="footer">
+  <h4 class= "footer-about">About this website <i class="fa fa-cogs"></i> About this Mallory</h4>
+</div>
+
+<!--jquery-->
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/jquery/dist/jquery.js"></script>
+<!-- build:js scripts/main.min.js -->
+<script src="/node_modules/pym.js/dist/pym.js"></script>
+<script src="scripts/main.js"></script>
+<!-- endbuild -->
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-9827490-1', 'auto');
+  ga('set', 'location', window.location.protocol + '//' + window.location.hostname + window.location.pathname);
+  ga('set', 'page', window.location.pathname);
+  ga('send', 'pageview');
+</script>
+</body>
+</html>
