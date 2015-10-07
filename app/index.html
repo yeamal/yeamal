@@ -18,7 +18,7 @@
     <img class="m" src="assets/images/m.png" type="image/png">
     <div class="selection">
       {% for row in tabs %}
-      <div class="tab"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></div>
+      <div class="tab" id="{{ row.id }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></div>
       {% endfor %}
     </div>
   </nav>
@@ -28,6 +28,11 @@
     {% include "home.html" %}
 
     {% block home %}
+    {% endblock %}
+
+    {% include "code.html" %}
+
+    {% block code %}
     {% endblock %}
     </div><!--End div#graphic-container-->
   </div>

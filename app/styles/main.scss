@@ -61,13 +61,13 @@ h1 {
 }
 
 h2 {
-	font-size: 1.25em;
+	font-size: 1.2em;
 	line-height: 1.3em;
 }
 
 
 h3 {
-	font-size: 1.15em;
+	font-size: 1.1em;
 	padding: .25em .5em .25em .5em;
 	font-style: italic;
 	color: $mid-dark;
@@ -99,21 +99,18 @@ h4 {
 
 .info-two {
 	display: none;
-	cursor: hand;
+}
+
+.info-text h3, .info-two h3{
 	cursor: pointer;
 }
 
-.info-two:hover {
-	color: $mid-light;
+.info-two h3:hover, .info-text h3:hover {
+		color: $mid-light;
 }
 
-.info-text {
-	cursor: hand;
-	cursor: pointer;
-}
-
-.info-text:hover {
-	color: $mid-light;
+div h3 {
+	display: inline-block;
 }
 
 div.item.two {
@@ -190,7 +187,7 @@ div.item.last{
 
 .logo {
 	width: 20%;
-	padding: .5em .5em .5em 0em;
+	padding: .25em .5em .5em 0em;
 	float: left;
 }
 
@@ -258,7 +255,7 @@ p {
 
 .selection {
 	float: right;
-	margin: .25em 1em;
+	margin: none;
 	@include media ($sm-md) {
 		margin: 0 1em;
 	}
@@ -266,21 +263,32 @@ p {
 
 .tab {
     float: left;
-    padding: .25em 0em .25em .25em;
-    @include media ($medium) {
+    padding: .5em 0em .25em .25em;
+    height: 3em;
+    @include media ($sm-md) {
     	padding: .25em .5em .25em .5em;
     }
     h4 {
     	color: $lightest;
-    	display: inline-block;
+    	display: none;
+    	@include media ($small) {
+    		display: inline-block;
+    	}
     } 
     i.fa {
     	color: $lightest;
-    	display: none;
-    	@include media ($medium) {
-    		display: inline-block;
+    	display: inline-block;
+    	padding: .5em;
+    	@include media ($small) {
+    		display: none;
+    		padding: 0;
     	}
     }
+}
+
+.tab:hover {
+	background-color: $mid-dark;
+	cursor: pointer;
 }
 
 
