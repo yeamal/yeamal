@@ -82,23 +82,28 @@
   "tabs": [
     {
       "name": "Code",
-      "fa": "fa-code"
+      "fa": "fa-code",
+      "page": "code.html"
     },
     {
       "name": "Strategy",
-      "fa": "fa-users"
+      "fa": "fa-users",
+      "page": "strategy.html"
     },
     {
       "name": "Video",
-      "fa": "fa-video-camera"
+      "fa": "fa-video-camera",
+      "page": "video.html"
     },
     {
       "name": "Writing",
-      "fa": "fa-pencil"
+      "fa": "fa-pencil",
+      "page": "writing.html"
     },
     {
       "name": "Design",
-      "fa": "fa-object-group"
+      "fa": "fa-object-group",
+      "page": "design.html"
     }
   ],
   "frontaudience": [
@@ -968,24 +973,6 @@
     {
       "classes": "video",
       "link": "http://www.northbynorthwestern.com/story/looking-inside-an-apartment-art-gallery/"
-    }
-  ],
-  "key": [
-    {
-      "word": "Audience Development",
-      "class": "aud-dev"
-    },
-    {
-      "word": "Code and Data",
-      "class": "code"
-    },
-    {
-      "word": "Design",
-      "class": "design"
-    },
-    {
-      "word": "Videography",
-      "class": "video"
     }
   ],
   "writing": [
