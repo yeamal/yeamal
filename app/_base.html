@@ -15,7 +15,7 @@
 <body>
 
   <nav class="nav-bar">
-    <img class="m" src="assets/images/m.png" type="image/png">
+    <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
     <div class="selection">
       {% for row in tabs %}
       <a href="{{ row.page }}"><div class="tab" id="{{ row.id }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></div></a>
@@ -30,7 +30,7 @@
   </div>
 
 <div class="footer">
-  <h4 class= "footer-about">About this website <i class="fa fa-cogs"></i> About this Mallory</h4>
+  <h4 class= "footer-about"><a href="about.html">About this website</a> <i class="fa fa-cogs"></i> <a href="mallory.html"> About this Mallory</a></h4>
 </div>
 
 <!--jquery-->

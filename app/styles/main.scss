@@ -33,6 +33,10 @@ a:hover {
 	}
 }
 
+.footer-about a {
+	color: $mid-light;
+}
+
 .fa-bars {
 	color: $mid-dark;
 	float: right;
@@ -204,6 +208,10 @@ div.item.last{
 	padding: .5em;
 	float: left;
 	vertical-align: text-top;
+}
+
+.m:hover {
+	background-color: $mid-dark;
 }
 
 .nav-bar {
