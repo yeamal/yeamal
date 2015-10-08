@@ -1,4 +1,6 @@
-{% block home %}
+{% extends "_base.html" %}
+
+{% block content %}
     <div class="section" id="code">
       <h1>Code + Data</h1>
       <div class="info-two"><h3>(Hide descriptions...)</h3></div>
@@ -22,7 +24,7 @@
     </div>
 
     <div class="section" id="audience">
-      <h1>Audience Development</h1>
+      <h1>Audience Strategy + Development</h1>
         {% for row in frontaudience %}
           <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %}"> 
             <div class="top-label">

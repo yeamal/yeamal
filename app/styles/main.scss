@@ -13,6 +13,14 @@ $sm-md: 550px;
 $medium: 950px;
 $large: 1250px;
 
+a {
+	color: $mid-dark;
+}
+
+a:hover {
+	color: $mid-light;
+}
+
 .footer {
 	height: 2.5em;
 	background-color: $mid-dark;

@@ -85,7 +85,7 @@
       "fa": "fa-code"
     },
     {
-      "name": "Audience",
+      "name": "Strategy",
       "fa": "fa-users"
     },
     {
@@ -180,7 +180,7 @@
       "organization": "North by Northwestern",
       "position": "Digital Producer",
       "logo": "nbn.png",
-      "undefined": "jQuery. Scss. Yeoman."
+      "tools": "jQuery. Scss. Yeoman."
     },
     {
       "name": "Putting on a Happy Face",
@@ -227,90 +227,152 @@
       "img": "mag.png",
       "classes": "code",
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/index/",
-      "date": 42064
+      "date": 42064,
+      "organization": "North by Northwestern"
     },
     {
       "name": "The Grade Escape",
       "img": "grade.png",
       "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Life Advice",
       "img": "advice.png",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/life-advice/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/life-advice/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Lord of the Rink",
       "img": "ice.gif",
       "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/iceskating/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/iceskating/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Street Beat",
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/",
-      "undefined": "DEVICE DIVIDE MISSING"
+      "organization": "North by Northwestern",
+      "tools": "DEVICE DIVIDE MISSING"
     },
     {
       "name": "Game of Moans",
       "img": "moans.png",
       "classes": "code",
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/game-of-moans/",
-      "undefined": "NU PHONE HOME MISSING"
+      "organization": "North by Northwestern",
+      "tools": "NU PHONE HOME MISSING"
     },
     {
       "name": "Seeking Faith",
       "img": "faith.png",
       "classes": "code",
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/seeking-faith/",
-      "undefined": "DEVICE DIVIDE MISSING"
+      "organization": "North by Northwestern",
+      "tools": "DEVICE DIVIDE MISSING"
     },
     {
       "name": "Putt-ing Up With the Cold",
       "img": "putting.png",
       "classes": "code",
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/patten/",
-      "undefined": "NU PHONE HOME MISSING"
+      "organization": "North by Northwestern",
+      "tools": "NU PHONE HOME MISSING"
     },
     {
       "name": "Tree of (Battery) Life",
       "img": "tree.png",
       "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/tree-of-battery-life/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/tree-of-battery-life/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Rested and Recharged",
       "img": "rested.jpg",
       "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/rested-and-recharged/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/rested-and-recharged/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "{Not otherwise specified}",
       "img": "ednos.png",
       "description": "The stress of college life has dire consequences for those with disordered eating.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/ednos/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/ednos/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Do you believe in Magic?",
       "img": "magic.png",
       "description": "Three students connect with their peers through slight of hand.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/magic/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/magic/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Come One, Come All",
       "img": "dildo.png",
       "description": "Dive head first into the Chicago sex shop scene",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/sex/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/sex/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Cage Match",
       "img": "cage.png",
       "description": "When students compete for school film equipment, nobody wins.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/rtvf/"
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/rtvf/",
+      "organization": "North by Northwestern"
     },
     {
       "name": "Venbro",
       "link": "https://twitter.com/yeamal/status/599718739802791936"
+    },
+    {
+      "tools": "tools"
+    },
+    {
+      "name": "Failing Schools Flowchart",
+      "img": "flowchart.png",
+      "description": "A responsive flowchart laying out the complicated process for school closures in Texas. Wording changes based on whether the user opens the flowchart in desktop or mobile.",
+      "link": "http://www.texastribune.org/2015/08/13/texas-hold-districts-accountable-failing-schools/?utm_source=texastribune.org&utm_medium=rss&utm_campaign=Tribune%20Feed:%20None?utm_source=31ways_navslider",
+      "date": 42229,
+      "organization": "The Texas Tribune",
+      "position": "News Apps Fellow",
+      "logo": "texas.png",
+      "tools": "JavaScript. Scss."
+    },
+    {
+      "name": "Map of Texas Emergency Centers",
+      "img": "map.png",
+      "description": "Took an Excel spreadsheet of street addresses and turned it into this cluster map showing the distribution of freestanding emergency centers in Texas.",
+      "classes": "code",
+      "link": "http://www.texastribune.org/2015/08/15/new-option-parents-hoping-safely-abandon-newborn/",
+      "date": 42231,
+      "organization": "The Texas Tribune",
+      "logo": "texas.png",
+      "tools": "Excel. Fusion Tables. CSVKit. Google Earth. MapBox."
+    },
+    {
+      "name": "Breakdown: Texas County Jails Deaths",
+      "img": "suicides.png",
+      "description": "Following Sandra Bland's death in custody, I visualized Texas County jail deaths in terms of race/gender and type of item used for suicides (the item used in Bland's death had been the subject of debate).",
+      "link": "http://www.texastribune.org/2015/07/24/hanging-most-common-suicide-method-texas-jails/",
+      "date": 42209,
+      "organization": "The Texas Tribune",
+      "position": "News Apps Fellow",
+      "logo": "texas.png",
+      "tools": "Excel. Font Awesome. Scss."
+    },
+    {
+      "name": "At Majority-Minority Schools, Confederate Names Remain",
+      "img": "confed-schools.png",
+      "description": "In my first week at The Texas Tribune, Confederate symbols were under national debate. I pitched this project –– a look at the public schools in Texas named after prominent Confederate figures, and the schools' racial make-up. Most of these schools were majority-minority. ",
+      "classes": "code",
+      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
+      "date": 42186,
+      "organization": "The Texas Tribune",
+      "position": "News Apps Fellow",
+      "logo": "texas.png",
+      "tools": "Excel. CSVkit. Scss. "
     }
   ],
   "audience": [
