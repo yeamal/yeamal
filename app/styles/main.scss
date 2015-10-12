@@ -219,7 +219,7 @@ div.item.last{
 	background-color: $darkest;
 }
 
-p, h1, h2, h3, h4, h5, h6 {
+p, ul, h1, h2, h3, h4, h5, h6 {
 	font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
@@ -305,6 +305,11 @@ p {
 .tab:hover {
 	background-color: $mid-dark;
 	cursor: pointer;
+}
+
+ul {
+	padding: 0em 0em 0em 1em;
+	color: $darkest;
 }
 
 

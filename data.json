@@ -601,6 +601,48 @@
       "organization": "North by Northwestern"
     }
   ],
+  "mallory": [
+    {
+      "start": "Mallory Busch is a senior at the Medill School of Journalism who isn't very good at speaking in the third person. She is graduating in December 2015 with degrees in Journalism and International Studies from Northwestern University in Evanston, Illinois. "
+    },
+    {
+      "start": "Mallory is curious about all forms of media, and intent about finding ways to not only spread the news, but captivate audiences and inform their decisions. Her favorite experiences in media include:",
+      "experiences": "Digging through data to produce compelling stories with The Texas Tribune"
+    },
+    {
+      "experiences": "Getting TIME magazine on Snapchat and running its Tumblr page"
+    },
+    {
+      "experiences": "Executing a fully responsive online version of a traditionally print student magazine"
+    },
+    {
+      "experiences": "Getting 400,000+ hits for a co-written article, \"If Every Big Ten School Was a Game of Thrones Character\""
+    },
+    {
+      "experiences": "Dancing around Northwestern in a purple morphsuit to advertise a student newsite while serving as its video editor"
+    },
+    {
+      "experiences": "Speaking at Mozilla Festival in London about using the listicle approach to journalism"
+    },
+    {
+      "experiences": "Leading a presentation to Time Inc. social departments on how to produce gifs and social cards"
+    },
+    {
+      "experiences": "Writing an article about the Series of Unfortunate Events with 15 uses of \"V.F.D.\" phrases"
+    },
+    {
+      "experiences": "Helping to produce an app with NU's course API to allow students to choose classes based on their Facebook friends"
+    },
+    {
+      "experiences": "Seeing her stories impact communities while at The Texas Tribune"
+    },
+    {
+      "experiences": "And of course, any time the code works"
+    },
+    {
+      "end": "That's an incomplete list, but hopefully it sheds some light on Mallory's variety of interests and talents, as well as her attempts to seem well-rounded, approachable and funny."
+    }
+  ],
   "design": [
     {
       "name": "How to Buy The Perfect Christmas Gift",
@@ -620,16 +662,19 @@
   ],
   "contact": [
     {
-      "img": "twitterLogo.png",
-      "link": "https://twitter.com/yeamal"
+      "type": "Twitter",
+      "link": "https://twitter.com/yeamal",
+      "name": "@yeamal"
     },
     {
-      "img": "linkedinLogo.png",
-      "link": "https://www.linkedin.com/in/yeamal"
+      "type": "Email",
+      "link": "mailto:m.mallorybusch@gmail.com",
+      "name": "M.MalloryBusch@gmail.com"
     },
     {
-      "img": "emailLogo.png",
-      "link": "mailto:m.mallorybusch@gmail.com"
+      "type": "LinkedIn",
+      "link": "https://www.linkedin.com/in/yeamal",
+      "name": "Mallory Busch"
     }
   ],
   "all": [
