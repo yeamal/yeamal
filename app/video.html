@@ -1,4 +1,46 @@
 {% extends "_base.html" %}
 
 {% block content %}
+	<div class="section">
+		<h1>North by Northwestern</h1>
+		<ul>
+			{% for row in video %}
+				{% if row.organization == 'North by Northwestern' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Sherman Ave</h1>
+		<ul>
+			{% for row in video %}
+				{% if row.organization == 'Sherman Ave' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Medill Magazine</h1>
+		<ul>
+			{% for row in video %}
+				{% if row.organization == 'Medill Magazine' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Just For Fun</h1>
+		<ul>
+			{% for row in video %}
+				{% if row.organization == 'etc' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Classwork</h1>
+		<ul>
+			{% for row in video %}
+				{% if row.organization == 'Class' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
 {% endblock %}

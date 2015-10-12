@@ -165,191 +165,16 @@
   ],
   "code": [
     {
-      "name": "At Majority-Minority Schools, Confederate Names Remain",
-      "img": "confed-schools.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
-      "classes": "code",
-      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
-      "date": 42186,
+      "name": "Luckless at Capitol, Minimum Wage Advocates Go Local",
+      "link": "http://www.texastribune.org/2015/08/20/inaction-capitol-minimum-wage-advocates-go-local/",
+      "date": 42236,
       "organization": "The Texas Tribune",
-      "position": "News Apps Fellow",
-      "logo": "texas.png"
-    },
-    {
-      "name": "Facing the Truth",
-      "img": "facingtruth.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/diversity",
-      "date": 41974,
-      "organization": "North by Northwestern",
-      "position": "Digital Producer",
-      "logo": "nbn.png",
-      "tools": "jQuery. Scss. Yeoman."
-    },
-    {
-      "name": "Putting on a Happy Face",
-      "img": "econ.gif",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/evanston/",
-      "date": 41974,
-      "organization": "North by Northwestern",
-      "position": "Digital Producer",
-      "logo": "nbn.png"
-    },
-    {
-      "name": "Romaine",
-      "img": "romaine.gif",
-      "classes": "code",
-      "link": "https://romaine.herokuapp.com/",
-      "date": 41974,
-      "organization": "Knight Lab",
-      "position": "Student Fellow",
-      "logo": "knightlab.png"
-    },
-    {
-      "name": "Ahead of His Time",
-      "img": "wrestling.gif",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/wrestling/",
-      "date": 41974,
-      "organization": "North by Northwestern",
-      "position": "Digital Producer",
-      "logo": "nbn.png"
-    },
-    {
-      "name": "It Happens Here",
-      "img": "here.gif",
-      "classes": "code",
-      "link": "http://ianfrancisrobinson.github.io/jour320/",
-      "date": 41699,
-      "organization": "Northwestern University",
-      "position": "Student",
-      "logo": "nu.jpg"
-    },
-    {
-      "name": "North by Northwestern Winter Magazine 2015",
-      "img": "mag.png",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/index/",
-      "date": 42064,
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "The Grade Escape",
-      "img": "grade.png",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Life Advice",
-      "img": "advice.png",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/life-advice/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Lord of the Rink",
-      "img": "ice.gif",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/iceskating/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Street Beat",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/",
-      "organization": "North by Northwestern",
-      "tools": "DEVICE DIVIDE MISSING"
-    },
-    {
-      "name": "Game of Moans",
-      "img": "moans.png",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/game-of-moans/",
-      "organization": "North by Northwestern",
-      "tools": "NU PHONE HOME MISSING"
-    },
-    {
-      "name": "Seeking Faith",
-      "img": "faith.png",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/seeking-faith/",
-      "organization": "North by Northwestern",
-      "tools": "DEVICE DIVIDE MISSING"
-    },
-    {
-      "name": "Putt-ing Up With the Cold",
-      "img": "putting.png",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/patten/",
-      "organization": "North by Northwestern",
-      "tools": "NU PHONE HOME MISSING"
-    },
-    {
-      "name": "Tree of (Battery) Life",
-      "img": "tree.png",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/tree-of-battery-life/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Rested and Recharged",
-      "img": "rested.jpg",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/rested-and-recharged/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "{Not otherwise specified}",
-      "img": "ednos.png",
-      "description": "The stress of college life has dire consequences for those with disordered eating.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/ednos/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Do you believe in Magic?",
-      "img": "magic.png",
-      "description": "Three students connect with their peers through slight of hand.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/magic/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Come One, Come All",
-      "img": "dildo.png",
-      "description": "Dive head first into the Chicago sex shop scene",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/sex/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Cage Match",
-      "img": "cage.png",
-      "description": "When students compete for school film equipment, nobody wins.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/rtvf/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Venbro",
-      "link": "https://twitter.com/yeamal/status/599718739802791936"
-    },
-    {
       "tools": "tools"
     },
     {
-      "name": "Failing Schools Flowchart",
-      "img": "flowchart.png",
-      "description": "A responsive flowchart laying out the complicated process for school closures in Texas. Wording changes based on whether the user opens the flowchart in desktop or mobile.",
-      "link": "http://www.texastribune.org/2015/08/13/texas-hold-districts-accountable-failing-schools/?utm_source=texastribune.org&utm_medium=rss&utm_campaign=Tribune%20Feed:%20None?utm_source=31ways_navslider",
-      "date": 42229,
-      "organization": "The Texas Tribune",
-      "position": "News Apps Fellow",
-      "logo": "texas.png",
-      "tools": "JavaScript. Scss."
-    },
-    {
-      "name": "Map of Texas Emergency Centers",
+      "name": "Emergency Centers to Be Included in \"Baby Moses\" Law",
       "img": "map.png",
       "description": "Took an Excel spreadsheet of street addresses and turned it into this cluster map showing the distribution of freestanding emergency centers in Texas.",
-      "classes": "code",
       "link": "http://www.texastribune.org/2015/08/15/new-option-parents-hoping-safely-abandon-newborn/",
       "date": 42231,
       "organization": "The Texas Tribune",
@@ -357,13 +182,34 @@
       "tools": "Excel. Fusion Tables. CSVKit. Google Earth. MapBox."
     },
     {
-      "name": "Breakdown: Texas County Jails Deaths",
+      "name": "Texas to Hold Districts Accountable for Failing Schools",
+      "img": "flowchart.png",
+      "description": "A responsive flowchart laying out the complicated process for school closures in Texas. Wording changes based on whether the user opens the flowchart in desktop or mobile.",
+      "link": "http://www.texastribune.org/2015/08/13/texas-hold-districts-accountable-failing-schools/?utm_source=texastribune.org&utm_medium=rss&utm_campaign=Tribune%20Feed:%20None?utm_source=31ways_navslider",
+      "date": 42229,
+      "organization": "The Texas Tribune",
+      "logo": "texas.png",
+      "tools": "JavaScript. Scss."
+    },
+    {
+      "name": "Planned Parenthood Out of Cancer Screening Program",
+      "link": "http://www.texastribune.org/2015/08/10/planned-parenthood-be-cut-cancer-screening-program/",
+      "date": 42226,
+      "organization": "The Texas Tribune"
+    },
+    {
+      "name": "New Truancy Law Set to Put Pressure on Schools, Parents",
+      "link": "http://www.texastribune.org/2015/08/08/new-truancy-law-puts-pressure-schools/",
+      "date": 42224,
+      "organization": "The Texas Tribune"
+    },
+    {
+      "name": "In Texas Jails, Hanging Most Common Suicide Method",
       "img": "suicides.png",
       "description": "Following Sandra Bland's death in custody, I visualized Texas County jail deaths in terms of race/gender and type of item used for suicides (the item used in Bland's death had been the subject of debate).",
       "link": "http://www.texastribune.org/2015/07/24/hanging-most-common-suicide-method-texas-jails/",
       "date": 42209,
       "organization": "The Texas Tribune",
-      "position": "News Apps Fellow",
       "logo": "texas.png",
       "tools": "Excel. Font Awesome. Scss."
     },
@@ -371,13 +217,174 @@
       "name": "At Majority-Minority Schools, Confederate Names Remain",
       "img": "confed-schools.png",
       "description": "In my first week at The Texas Tribune, Confederate symbols were under national debate. I pitched this project –– a look at the public schools in Texas named after prominent Confederate figures, and the schools' racial make-up. Most of these schools were majority-minority. ",
-      "classes": "code",
       "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
       "date": 42186,
       "organization": "The Texas Tribune",
-      "position": "News Apps Fellow",
       "logo": "texas.png",
       "tools": "Excel. CSVkit. Scss. "
+    },
+    {
+      "name": "Venbro",
+      "link": "https://twitter.com/yeamal/status/599718739802791936",
+      "date": 42125,
+      "organization": "etc"
+    },
+    {
+      "name": "The Grade Escape",
+      "img": "grade.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Life Advice",
+      "img": "advice.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/life-advice/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Lord of the Rink",
+      "img": "ice.gif",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/iceskating/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Game of Moans",
+      "img": "moans.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/game-of-moans/",
+      "date": 42072,
+      "organization": "North by Northwestern",
+      "tools": "NU PHONE HOME MISSING"
+    },
+    {
+      "name": "Seeking Faith",
+      "img": "faith.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/seeking-faith/",
+      "date": 42072,
+      "organization": "North by Northwestern",
+      "tools": "DEVICE DIVIDE MISSING"
+    },
+    {
+      "name": "Putt-ing Up With the Cold",
+      "img": "putting.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/patten/",
+      "date": 42072,
+      "organization": "North by Northwestern",
+      "tools": "NU PHONE HOME MISSING"
+    },
+    {
+      "name": "Tree of (Battery) Life",
+      "img": "tree.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/tree-of-battery-life/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Rested and Recharged",
+      "img": "rested.jpg",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/rested-and-recharged/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "{Not otherwise specified}",
+      "img": "ednos.png",
+      "description": "The stress of college life has dire consequences for those with disordered eating.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/ednos/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Do you believe in Magic?",
+      "img": "magic.png",
+      "description": "Three students connect with their peers through slight of hand.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/magic/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Come One, Come All",
+      "img": "dildo.png",
+      "description": "Dive head first into the Chicago sex shop scene",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/sex/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Cage Match",
+      "img": "cage.png",
+      "description": "When students compete for school film equipment, nobody wins.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/rtvf/",
+      "date": 42072,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "North by Northwestern Winter Magazine 2015",
+      "img": "mag.png",
+      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/index/",
+      "date": 42064,
+      "organization": "North by Northwestern"
+    },
+    {
+      "name": "Romaine",
+      "img": "romaine.gif",
+      "link": "https://romaine.herokuapp.com/",
+      "date": 41974,
+      "organization": "Knight Lab",
+      "logo": "knightlab.png"
+    },
+    {
+      "name": "Facing the Truth",
+      "img": "facingtruth.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/diversity",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "logo": "nbn.png",
+      "tools": "jQuery. Scss. Yeoman."
+    },
+    {
+      "name": "Putting on a Happy Face",
+      "img": "econ.gif",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/evanston/",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "Ahead of His Time",
+      "img": "wrestling.gif",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/wrestling/",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "logo": "nbn.png"
+    },
+    {
+      "name": "It Happens Here",
+      "img": "here.gif",
+      "link": "http://ianfrancisrobinson.github.io/jour320/",
+      "date": 41699,
+      "organization": "Class",
+      "logo": "nu.jpg"
+    }
+  ],
+  "SOS": [
+    {
+      "Street Beat": "Learning to LARP with Dead City Productions",
+      "undefined": "North by Northwestern",
+      "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/": 41240
+    },
+    {
+      "Street Beat": "Looking inside an apartment art gallery",
+      "undefined": "North by Northwestern",
+      "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/": 41668
+    },
+    {
+      "Street Beat": "Art Institute kicks off free student admission at Northwestern Night",
+      "undefined": "North by Northwestern",
+      "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/": 41663
     }
   ],
   "audience": [
@@ -524,67 +531,74 @@
     {
       "name": "Purple Morphsuit Dances Around Northwestern University",
       "img": "nbndm.gif",
-      "classes": "video",
       "link": "https://vimeo.com/87242288",
       "date": 41699,
-      "organization": "North by Northwestern",
-      "position": "Video Co-Editor",
-      "logo": "nbn.png"
+      "organization": "North by Northwestern"
     },
     {
       "name": "Interviewing Students After 30 Hours of Dancing",
-      "img": "dm.png",
-      "classes": "video",
       "link": "https://www.youtube.com/watch?v=J_KAnrJSCok",
-      "date": 41709
+      "date": 41709,
+      "organization": "Sherman Ave"
     },
     {
       "name": "We Will. The Campaign for Northwestern Parody",
-      "link": "https://www.youtube.com/watch?v=meA87TasIuc"
+      "link": "https://www.youtube.com/watch?v=meA87TasIuc",
+      "date": 41739,
+      "organization": "Sherman Ave"
     },
     {
       "name": "Behind the Scenes: Purple Morphsuit Dancing",
-      "img": "behind.png",
-      "link": "https://www.youtube.com/watch?v=NUWpyp47OwQ&spfreload=1"
+      "link": "https://www.youtube.com/watch?v=NUWpyp47OwQ&spfreload=1",
+      "date": 41706,
+      "organization": "etc"
     },
     {
       "name": "Medill's IMC Program Collaborates with Fox Sports",
-      "img": "img.png",
-      "link": "https://www.youtube.com/watch?v=MtcUl7UYQDo"
+      "link": "https://www.youtube.com/watch?v=MtcUl7UYQDo",
+      "date": 41460,
+      "organization": "Medill Magazine"
     },
     {
-      "name": "The rush after Rush",
-      "img": "rush.png",
-      "link": "https://vimeo.com/84279628"
+      "name": "The rush after Rush: capturing Bid Night 2014",
+      "link": "http://www.northbynorthwestern.com/story/the-rush-after-rush-capturing-bid-night-2014/",
+      "date": 41654,
+      "organization": "North by Northwestern"
     },
     {
       "name": "The religious response: Edgewater's communities of faith stand up for the LGBT cause",
-      "img": "religious,png",
-      "link": "https://vimeo.com/81016015"
+      "link": "https://vimeo.com/81016015",
+      "organization": "Class"
     },
     {
       "name": "Independent Spirits brings fine wine to Edgewater",
-      "img": "wine.png",
-      "link": "https://vimeo.com/76402009"
+      "link": "https://vimeo.com/76402009",
+      "date": 41548,
+      "organization": "Class"
     },
     {
       "name": "SASA brings Holi celebration to NU",
-      "img": "holi.png",
-      "link": "https://vimeo.com/65114705"
+      "link": "http://www.northbynorthwestern.com/story/sasa-brings-holi-celebration-to-nu/",
+      "date": 41393,
+      "organization": "North by Northwestern"
     },
     {
-      "name": "NU students prepare for Tough Mudder",
-      "img": "tough.png",
-      "link": "https://vimeo.com/61236734"
+      "name": "Fit and Dirty",
+      "link": "http://www.northbynorthwestern.com/story/fit-and-dirty/",
+      "date": 41340,
+      "organization": "North by Northwestern"
     },
     {
-      "name": "Art Institute kicks off free student admission at Northwestern Night",
-      "classes": "video",
-      "link": "http://www.northbynorthwestern.com/story/art-institute-kicks-off-free-student-admission-at-/"
+      "name": "NorCal Adventure",
+      "link": "https://vimeo.com/105493968",
+      "date": 41883,
+      "organization": "etc"
     },
     {
-      "classes": "video",
-      "link": "http://www.northbynorthwestern.com/story/looking-inside-an-apartment-art-gallery/"
+      "name": "How Rifka Cook Found Love",
+      "link": "http://www.northbynorthwestern.com/story/how-rifka-cook-found-love/",
+      "date": 41423,
+      "organization": "North by Northwestern"
     }
   ],
   "design": [
