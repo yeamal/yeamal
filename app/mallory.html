@@ -2,6 +2,12 @@
 
 {% block content %}
 <div class="section">
+	<h1>Contact</h1>
+	{% for row in contact %}
+		<ul>
+			<li>{{ row.type }}: <a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+		</ul>
+	{% endfor %}
 	<h1>About</h1>
 	{% for row in mallory %}
 	<p>{{ row.start }}</p>
@@ -9,12 +15,6 @@
 		<li>{{ row.experiences }}</li>
 	</ul>
 	<p>{{ row.end }}</p>
-	{% endfor %}
-	<h1>Contact</h1>
-	{% for row in contact %}
-		<ul>
-			<li>{{ row.type }}: <a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-		</ul>
 	{% endfor %}
 </div>
 {% endblock %}
