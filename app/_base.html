@@ -18,7 +18,7 @@
     <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
     <div class="selection">
       {% for row in tabs %}
-      <a href="{{ row.page }}"><div class="tab" id="{{ row.id }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></div></a>
+      <div class="tab" id="{{ row.path }}"><a href="{{ row.page }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
       {% endfor %}
     </div>
   </nav>

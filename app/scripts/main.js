@@ -28,6 +28,13 @@
             $('.info-two').hide(1000);
         });
 
+        //tab colors
+        $('.tab').each(function() {
+          if (this.id === window.location.pathname) {
+            $(this).addClass('active');
+          }
+        });
+
     if (pymChild) {
       pymChild.sendHeight();
     }
