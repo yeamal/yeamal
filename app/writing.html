@@ -1,4 +1,38 @@
 {% extends "_base.html" %}
 
 {% block content %}
+	<div class="section">
+		<h1>TIME</h1>
+		<ul>
+			{% for row in writing %}
+				{% if row.organization == 'TIME' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Knight Lab</h1>
+		<ul>
+			{% for row in writing %}
+				{% if row.organization == 'Knight Lab' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Medill Magazine</h1>
+		<ul>
+			{% for row in writing %}
+				{% if row.organization == 'Medill Magazine' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>North by Northwestern</h1>
+		<ul>
+			{% for row in writing %}
+				{% if row.organization == 'North by Northwestern' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
 {% endblock %}

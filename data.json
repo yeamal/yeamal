@@ -507,6 +507,10 @@
     {
       "https://twitter.com/Sherman_Ave/status/517707628836036608": "https://twitter.com/Sherman_Ave/status/512419363626835968",
       "undefined": "Application - Back to the Future"
+    },
+    {
+      "https://twitter.com/Sherman_Ave/status/517707628836036608": "Should you make a flowchart?",
+      "undefined": "sa"
     }
   ],
   "video": [
@@ -1017,223 +1021,184 @@
   ],
   "writing": [
     {
-      "hed": "Twitter Was Not Okay With the 'Black Wedding' on Game of Thrones",
+      "name": "Twitter Was Not Okay With the 'Black Wedding' on Game of Thrones",
       "link": "http://time.com/3882457/game-of-thrones-twitter-reactions-stark-wedding/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "World of Warcraft Bans 'A Large Number' of Players",
+      "name": "World of Warcraft Bans 'A Large Number' of Players",
       "link": "http://time.com/3860623/world-warcraft-ban/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "Watch Han Solo Return in the New Trailer for Star Wars: The Force Awakens",
+      "name": "Watch Han Solo Return in the New Trailer for Star Wars: The Force Awakens",
       "link": "http://time.com/3825006/watch-han-solo-return-in-the-new-trailer-for-star-wars-the-force-awakens/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "Anna Kendrick is Not Impressed With Princess Charlotte",
+      "name": "Anna Kendrick is Not Impressed With Princess Charlotte",
       "link": "http://time.com/3861429/princess-charlotte-anna-kendrick/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "Louisiana Black Bear is No Longer Endangered",
+      "name": "Louisiana Black Bear is No Longer Endangered",
       "link": "http://time.com/3891248/louisiana-black-bear-not-endangered/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "110-year-old Man Says a Beer a Day is the Secret to Longevity",
+      "name": "110-year-old Man Says a Beer a Day is the Secret to Longevity",
       "link": "http://time.com/3892225/longevity-beer-a-day/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "Read Tom Brady's Heartfelt Letter to Wife Gisele Bündchen on her Retirement",
+      "name": "Read Tom Brady's Heartfelt Letter to Wife Gisele Bündchen on her Retirement",
       "link": "http://time.com/3825081/tom-brady-gisele-bundchen-letter/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "Watch Anna Kendrick Lip Sync Her Love for Emily Blunt",
+      "name": "Watch Anna Kendrick Lip Sync Her Love for Emily Blunt",
       "link": "http://time.com/3824895/anna-kendrick-emily-blunt-lip-sync-battle/",
-      "publication": "TIME",
-      "class": "time"
+      "organization": "TIME"
     },
     {
-      "hed": "Long a challenge, Snapchat delivers crowd-sourced storytelling",
+      "name": "Long a challenge, Snapchat delivers crowd-sourced storytelling",
       "link": "http://knightlab.northwestern.edu/2015/03/25/long-a-challenge-snapchat-delivers-crowd-sourced-storytelling/",
-      "publication": "Knight Lab",
-      "class": "lab"
+      "organization": "Knight Lab"
     },
     {
-      "hed": "NICAR15: 10 tips to avoid data mistakes in the newsroom",
+      "name": "NICAR15: 10 tips to avoid data mistakes in the newsroom",
       "link": "http://knightlab.northwestern.edu/2015/03/07/nicar15-10-tips-to-avoid-data-mistakes-in-the-newsroom/",
-      "publication": "Knight Lab",
-      "class": "lab"
+      "organization": "Knight Lab"
     },
     {
-      "hed": "Rethinking the listicle. What Can It Do For \"Serious\" News?",
+      "name": "Rethinking the listicle. What Can It Do For \"Serious\" News?",
       "link": "http://knightlab.northwestern.edu/2014/11/12/rethinking-the-listicle-what-can-it-do-for-serious-news/",
-      "publication": "Knight Lab",
-      "class": "lab"
+      "organization": "Knight Lab"
     },
     {
-      "hed": "MozFest 2014: Gotta lotta analog data? Crowdsourcing may make it useful for you and fun for readers",
+      "name": "MozFest 2014: Gotta lotta analog data? Crowdsourcing may make it useful for you and fun for readers",
       "link": "http://knightlab.northwestern.edu/2014/10/26/mozfest-2014-gotta-lotta-analog-data-crowdsourcing-may-make-it-useful-for-you-and-fun-for-readers/",
-      "publication": "Knight Lab",
-      "class": "lab"
+      "organization": "Knight Lab"
     },
     {
-      "hed": "Event recap: Twitter talks elections, politics, and data",
+      "name": "Event recap: Twitter talks elections, politics, and data",
       "link": "http://knightlab.northwestern.edu/2014/07/15/event-recap-twitter-talks-elections-politics-and-data/",
-      "publication": "Knight Lab",
-      "class": "lab"
+      "organization": "Knight Lab"
     },
     {
-      "hed": "Chicago Bureau gives Medill students the chance to report on juvenile justice",
+      "name": "Chicago Bureau gives Medill students the chance to report on juvenile justice",
       "link": "http://www.medill.northwestern.edu/news/feature-chicago-bureau-gives-students-chance-to-report-on-juvenile-justice.html",
       "date": 41757,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Alan Yu (BSJ13, MSJ13) Wins Kroc Fellowship",
+      "name": "Alan Yu (BSJ13, MSJ13) Wins Kroc Fellowship",
       "link": "http://www.medill.northwestern.edu/news/news-alan-yu-kroc-fellowship.html",
       "date": 41432,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Clinton and Emanuel talk politics, ‘Hard Choices’ in Chicago",
+      "name": "Clinton and Emanuel talk politics, ‘Hard Choices’ in Chicago",
       "link": "http://www.medill.northwestern.edu/news/news-2014-clinton-and-emanuel-talk-politics,-hard-choices-in-chicago.html",
       "date": 41806,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Medill Media Teens featured on Big Ten Network",
+      "name": "Medill Media Teens featured on Big Ten Network",
       "link": "http://www.medill.northwestern.edu/news/news-medill-media-teens-featured-on-big-ten-network.html",
       "date": 41661,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "IMC undergraduate certificate students create campaign for Fox Sports",
+      "name": "IMC undergraduate certificate students create campaign for Fox Sports",
       "link": "http://www.medill.northwestern.edu/news/news-imc-fox-sports.html",
       "date": 41441,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Chicago broadcasters speak at Medill for Asian American Student Journalists event",
+      "name": "Chicago broadcasters speak at Medill for Asian American Student Journalists event",
       "link": "http://www.medill.northwestern.edu/news/news-broadcasters-speak-student-journalists.html",
       "date": 41414,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Medill Cherubs are most diverse class yet",
+      "name": "Medill Cherubs are most diverse class yet",
       "link": "http://www.medill.northwestern.edu/news/news-cherubs-diverse.html",
       "date": 41442,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "IMC Certificate Program graduates record class",
+      "name": "IMC Certificate Program graduates record class",
       "link": "http://www.medill.northwestern.edu/news/news-imc-certificate-2013-graduation.html",
       "date": 41450,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Knight Lab starts school year with new innovations",
+      "name": "Knight Lab starts school year with new innovations",
       "link": "http://www.medill.northwestern.edu/news/news-knight-lab-2013-school-year-new-innovations.html",
       "date": 41543,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "IMC faculty, students take part in Social Media Week",
+      "name": "IMC faculty, students take part in Social Media Week",
       "link": "http://www.medill.northwestern.edu/news/news-imc-social-media-week-september-2013.html",
       "date": 41547,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Documentary Class showcases student films",
+      "name": "Documentary Class showcases student films",
       "link": "http://www.medill.northwestern.edu/news/news-documentary-class.html",
       "date": 41445,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Professor David Abrahamson honored with lifetime achievement award",
+      "name": "Professor David Abrahamson honored with lifetime achievement award",
       "link": "http://www.medill.northwestern.edu/news/news-abrahamson-lifetime.html",
       "date": 41465,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "High school students immerse in journalism at Medill",
+      "name": "High school students immerse in journalism at Medill",
       "link": "http://www.medill.northwestern.edu/news/news-high-school-journalism-day-2013.html",
       "date": 41577,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Quaker PepsiCo marketers discuss consumer insights, brand engagement",
+      "name": "Quaker PepsiCo marketers discuss consumer insights, brand engagement",
       "link": "http://www.medill.northwestern.edu/news/news-talentq-quaker-pepsico.html",
       "date": 41562,
-      "publication": "Medill Marketing",
-      "class": "medill"
+      "organization": "Medill Magazine"
     },
     {
-      "hed": "Friday Night Rites",
+      "name": "Friday Night Rites",
       "link": "http://www.northbynorthwestern.com/story/friday-night-rites/",
       "date": 41424,
-      "publication": "North by Northwestern",
-      "class": "nbn"
+      "organization": "North by Northwestern"
     },
     {
-      "hed": "My year in Ho House",
+      "name": "My year in Ho House",
       "link": "http://www.northbynorthwestern.com/story/first-impressions-freshman-housing/",
-      "publication": "North by Northwestern",
-      "class": "nbn"
+      "organization": "North by Northwestern"
     },
     {
-      "hed": "Where are they now?",
+      "name": "Where are they now?",
       "link": "http://www.northbynorthwestern.com/story/where-are-they-now/",
-      "publication": "North by Northwestern",
-      "class": "nbn"
+      "organization": "North by Northwestern"
     },
     {
-      "hed": "ReFusionShocka will rock ya",
+      "name": "ReFusionShocka will rock ya",
       "link": "http://www.northbynorthwestern.com/story/refusionshaka-will-rock-ya/",
-      "publication": "North by Northwestern",
-      "class": "nbn"
+      "organization": "North by Northwestern"
     },
     {
-      "hed": "Evanston couple turns passion for photography into full business",
+      "name": "Evanston couple turns passion for photography into full business",
       "link": "http://dailynorthwestern.com/2013/05/07/city/evanston-couple-turns-passion-for-university-photography-into-full-business/",
-      "publication": "The Daily Northwestern",
-      "class": "daily"
+      "organization": "The Daily Northwestern"
     },
     {
-      "hed": "Pi Kappa Alpha hosts run for Boston on the Lakefill",
+      "name": "Pi Kappa Alpha hosts run for Boston on the Lakefill",
       "link": "http://dailynorthwestern.com/2013/04/28/campus/pi-kappa-alpha-hosts-run-for-boston-on-the-lakefill/",
-      "publication": "The Daily Northwestern",
-      "class": "daily"
-    },
-    {
-      "hed": "Should you make a flowchart?",
-      "link": "http://sherman-ave.com/should-you-make-a-flowchart/",
-      "publication": "Sherman Ave",
-      "class": "sa"
+      "organization": "The Daily Northwestern"
     }
   ]
 }
