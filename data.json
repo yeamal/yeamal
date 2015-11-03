@@ -111,9 +111,8 @@
   ],
   "frontaudience": [
     {
-      "name": "Quote Cards",
+      "name": "TIME Quote Cards",
       "img": "maya-angelou.png",
-      "classes": "design aud-dev",
       "link": "https://twitter.com/TIME/status/603980353833951233",
       "date": 42095,
       "organization": "TIME",
@@ -123,7 +122,6 @@
     {
       "name": "GIFs for TIME and Time Inc.",
       "img": "Emma-Sulkowicz-2.gif",
-      "classes": "aud-dev",
       "link": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
       "date": 42125,
       "organization": "TIME",
@@ -131,9 +129,8 @@
       "logo": "time.png"
     },
     {
-      "name": "Photo Cards",
+      "name": "TIME Photo Cards",
       "img": "misspiggy.png",
-      "classes": "design aud-dev",
       "link": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist",
       "organization": "TIME",
       "position": "Audience Development Intern",
@@ -143,7 +140,6 @@
     {
       "name": "TIME Tumblr",
       "img": "groban.gif",
-      "classes": "aud-dev",
       "link": "http://timemagazine.tumblr.com/post/118380668471/your-twenties",
       "organization": "TIME",
       "position": "Audience Development Intern",
@@ -154,15 +150,19 @@
     },
     {
       "name": "TIME + Snapchat",
+      "img": "snapchat.png",
+      "organization": "TIME",
       "logo": "time.png",
       "two": "y",
       "four": "y",
       "last": "y"
     },
     {
-      "name": "TIME + Spotify",
-      "link": "http://time.com/3907828/song-of-the-summer-2015-playlist/?p=3907828?xid=tcoshare",
-      "logo": "time.png",
+      "name": "Sherman Ave Branding",
+      "img": "shermanave-strategy.png",
+      "link": "https://twitter.com/Sherman_Ave",
+      "organization": "Sherman Ave",
+      "logo": "sherman-ave-square.png",
       "last": "y"
     }
   ],

@@ -313,6 +313,10 @@ p {
     }
 }
 
+.tab.active i.fa {
+	color: $darkest;
+}
+
 .tab:hover {
 	background-color: $mid-dark;
 	cursor: pointer;

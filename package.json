@@ -1,7 +1,7 @@
 {
   "private": true,
   "config": {
-    "s3_bucket": "mallorybusch.com",
+    "s3_bucket": "www.yeamal.com",
     "slug": "yeamal"
   },
   "devDependencies": {
