@@ -64,8 +64,9 @@ nav h5 .fa {
 }
 
 .graphic {
-	padding: 1em;
+	padding: 2em 0em 0em 0em;
 	background-color: $lightest;
+	min-height: 100%;
 }
 
 h1, h5 {
@@ -115,6 +116,10 @@ h4 {
 	-webkit-box-orient: vertical;
 	overflow: hidden;
 	text-overflow: ellipsis;
+}
+
+html, body {
+	height: 100%;
 }
 
 .info-two {
@@ -243,6 +248,10 @@ p {
 	@include clearfix;
 }
 
+.push {
+	height: 2.5em;
+}
+
 .section {
 	padding-bottom: 4em;
 	@include clearfix;
@@ -337,6 +346,5 @@ ul {
 	padding: 0em 0em 0em 1em;
 	color: $darkest;
 }
-
 
 
