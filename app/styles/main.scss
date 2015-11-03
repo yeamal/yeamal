@@ -232,7 +232,11 @@ p, ul, h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-	color: $mid-dark;
+	color: $darkest;
+	a {
+		color: $mid-dark;
+		text-decoration: underline;
+	}
 }
 
 #projects {
@@ -263,6 +267,13 @@ p {
 	}
 	h2 {
 		font-weight: 500;
+	}
+}
+
+.section-about {
+	width: 100%;
+	@include media ($sm-md) {
+		width: 80%;
 	}
 }
 

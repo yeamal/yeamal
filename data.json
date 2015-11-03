@@ -1,6 +1,7 @@
 {
   "META": {
-    "website_title": "Mallory Busch"
+    "website_title": "Mallory Busch",
+    "about": "This website was built by Mallory Busch in the fall of 2015 using The Texas Tribune's graphics kit, which utilizes Google Spreadsheets and the templating system nunjucks. The code is available here on Github."
   },
   "frontcode": [
     {
