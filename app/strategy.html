@@ -1,4 +1,46 @@
 {% extends "_base.html" %}
 
 {% block content %}
+	<div class="section">
+		<h1>TIME</h1>
+		<ul>
+			{% for row in strategy %}
+				{% if row.organization == 'TIME' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Fortune</h1>
+		<ul>
+			{% for row in strategy %}
+				{% if row.organization == 'Fortune' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>MONEY</h1>
+		<ul>
+			{% for row in strategy %}
+				{% if row.organization == 'MONEY' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>Sherman Ave</h1>
+		<ul>
+			{% for row in strategy %}
+				{% if row.organization == 'Sherman Ave' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<h1>North by Northwestern</h1>
+		<ul>
+			{% for row in strategy %}
+				{% if row.organization == 'North by Northwestern' %}
+				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
 {% endblock %}

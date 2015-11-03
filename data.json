@@ -390,150 +390,128 @@
       "http://apps.northbynorthwestern.com/magazine/2015/winter/streetbeat/": 41663
     }
   ],
-  "audience": [
+  "strategy": [
     {
-      "name": "Emma Sulkowicz gifs",
-      "img": "Emma-Sulkowicz-2.gif",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
-      "classes": "aud-dev",
+      "name": "Tumblr Post/Gif example: Emma Sulkowicz",
       "link": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
       "date": 42125,
-      "organization": "TIME",
-      "position": "Audience Development Intern",
-      "logo": "time.png"
+      "organization": "TIME"
     },
     {
-      "name": "Quote Cards",
-      "img": "maya-angelou.png",
-      "classes": "design aud-dev",
+      "name": "Quote Card example: Maya Angelou",
       "link": "https://twitter.com/TIME/status/603980353833951233",
       "date": 42095,
-      "organization": "TIME",
-      "position": "Audience Development Intern",
-      "logo": "time.png"
+      "organization": "TIME"
     },
     {
-      "name": "Nick Offerman gifs",
-      "img": "nick.gif",
-      "classes": "aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/121210099989/nick-offerman-ron-swanson"
+      "name": "Tumblr Post/Gif example: Nick Offerman",
+      "link": "http://timemagazine.tumblr.com/post/121210099989/nick-offerman-ron-swanson",
+      "organization": "TIME"
     },
     {
-      "name": "Miss Piggy Quote Card",
-      "img": "misspiggy.png",
-      "classes": "design aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist"
+      "name": "Quote Card example: Miss Piggy",
+      "link": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist",
+      "organization": "TIME"
     },
     {
-      "name": "Pitch Perfect Gif",
-      "img": "pitch.gif",
-      "classes": "aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/118980957243/pitch-perfect-name-generator"
+      "name": "Gif example: Pitch Perfect",
+      "link": "http://timemagazine.tumblr.com/post/118980957243/pitch-perfect-name-generator",
+      "organization": "TIME"
     },
     {
-      "name": "Mad Men Quote Cards",
-      "classes": "design aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/118969224460/mad-men-history"
+      "name": "Photo Card example: Mad Men",
+      "link": "http://timemagazine.tumblr.com/post/118969224460/mad-men-history",
+      "organization": "TIME"
     },
     {
-      "name": "Josh Groban gifs",
-      "classes": "aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/118453532458/josh-groban-dad-joke"
+      "name": "Tumblr Post/Gif example: Josh Groban",
+      "link": "http://timemagazine.tumblr.com/post/118453532458/josh-groban-dad-joke",
+      "organization": "TIME"
     },
     {
-      "name": "YA Book Gifs",
-      "classes": "aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/118216915584/100-best-young-adult-novels"
+      "name": "Gif example: Young Adult books",
+      "link": "http://timemagazine.tumblr.com/post/118216915584/100-best-young-adult-novels",
+      "organization": "TIME"
     },
     {
-      "name": "Tumblr Post Example",
-      "classes": "aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/118380668471/your-twenties"
+      "name": "Tumblr Post example: When you graduate",
+      "link": "http://timemagazine.tumblr.com/post/118380668471/your-twenties",
+      "organization": "TIME"
     },
     {
-      "name": "Sally Jewel Quote Card",
-      "classes": "design aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/118449592949/sally-jewell-mothers-day"
+      "name": "Social Card example: Sally Jewell",
+      "link": "http://timemagazine.tumblr.com/post/118449592949/sally-jewell-mothers-day",
+      "organization": "TIME"
     },
     {
-      "name": "12 Reasons Why Dehydration is Bad for Your Body ",
-      "classes": "aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/120459677844/dehydration"
+      "name": "Social Card/Tumblr example: Laverne Cox",
+      "link": "http://timemagazine.tumblr.com/post/120647054090",
+      "organization": "TIME"
     },
     {
-      "name": "Laverne Cox Quote Card",
-      "classes": "design aud-dev",
-      "link": "http://timemagazine.tumblr.com/post/120647054090"
+      "name": "Tweet example: Scar",
+      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680",
+      "organization": "Sherman Ave"
     },
     {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
+      "name": "Tweet example: Football live-tweeting a Northwestern game",
+      "link": "https://twitter.com/Sherman_Ave/status/538745156389068800",
+      "organization": "Sherman Ave"
     },
     {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/538745156389068800"
+      "name": "Tweet example: Butter churn",
+      "link": "https://twitter.com/Sherman_Ave/status/520618165681000448",
+      "organization": "Sherman Ave"
     },
     {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/538744861227507714"
+      "name": "Tweet example: MIB",
+      "link": "https://twitter.com/Sherman_Ave/status/505066839274438656",
+      "organization": "Sherman Ave"
     },
     {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/520618165681000448"
+      "name": "Tweet example: The Rock",
+      "link": "https://twitter.com/Sherman_Ave/status/436642999783542785",
+      "organization": "Sherman Ave"
     },
     {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/517707628836036608"
-    },
-    {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/505066839274438656"
-    },
-    {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/480398510458929152"
-    },
-    {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/443475216035889152"
-    },
-    {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/436642999783542785"
-    },
-    {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/515887143449669633"
-    },
-    {
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/512419363626835968"
-    },
-    {
-      "name": "What Should I Watch on Netflix? A Flowchart Journey",
-      "classes": "design",
-      "link": "http://sherman-ave.com/what-should-i-watch-on-netflix-a-flowchart-journey/"
-    },
-    {
-      "name": "Be Prepared",
-      "classes": "aud-dev",
-      "link": "https://twitter.com/Sherman_Ave/status/505370788858695680"
-    },
-    {
-      "name": "Fortune Social Cards",
+      "name": "Social Card template designed for Fortune",
       "link": "https://twitter.com/FortuneMagazine/status/608443796557328388",
-      "logo": "time.png"
+      "organization": "Fortune"
     },
     {
-      "name": "Money Social Cards",
+      "name": "Social Card template designed for MONEY",
       "link": "https://twitter.com/MONEY/status/608557755000057856",
-      "logo": "time.png"
+      "organization": "MONEY"
+    },
+    {
+      "name": "Site promo: Purple Morphsuit Dances Around Campus",
+      "link": "https://vimeo.com/87242288",
+      "date": 41699,
+      "organization": "North by Northwestern"
+    }
+  ],
+  "etc": [
+    {
+      "https://twitter.com/Sherman_Ave/status/517707628836036608": "https://twitter.com/Sherman_Ave/status/480398510458929152"
+    },
+    {
+      "https://twitter.com/Sherman_Ave/status/517707628836036608": "https://twitter.com/Sherman_Ave/status/443475216035889152"
+    },
+    {
+      "https://twitter.com/Sherman_Ave/status/517707628836036608": "https://twitter.com/Sherman_Ave/status/538744861227507714"
+    },
+    {
+      "https://twitter.com/Sherman_Ave/status/517707628836036608": "https://twitter.com/Sherman_Ave/status/515887143449669633",
+      "undefined": "Application"
+    },
+    {
+      "https://twitter.com/Sherman_Ave/status/517707628836036608": "https://twitter.com/Sherman_Ave/status/512419363626835968",
+      "undefined": "Application - Back to the Future"
     }
   ],
   "video": [
     {
       "name": "Purple Morphsuit Dances Around Northwestern University",
-      "img": "nbndm.gif",
       "link": "https://vimeo.com/87242288",
       "date": 41699,
       "organization": "North by Northwestern"
