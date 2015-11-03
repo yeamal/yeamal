@@ -256,7 +256,7 @@ p {
 	padding-bottom: 4em;
 	@include clearfix;
 	position: relative;
-	margin: 0% 0% 0% 0%;
+	margin: 0% 3% 0% 3%;
 	@include media($small) {
 		margin: 0% 5% 0% 5%;
 	}
