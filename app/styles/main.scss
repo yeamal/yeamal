@@ -122,15 +122,15 @@ html, body {
 	height: 100%;
 }
 
-.info-two {
+.info-hide {
 	display: none;
 }
 
-.info-text h3, .info-two h3{
+.info-show h3, .info-hide h3{
 	cursor: pointer;
 }
 
-.info-two h3:hover, .info-text h3:hover {
+.info-hide h3:hover, .info-show h3:hover {
 		color: $mid-light;
 }
 

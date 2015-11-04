@@ -3,10 +3,10 @@
 {% block content %}
     <div class="section" id="code">
       <h1>Code + Data</h1>
-      <div class="info-two"><h3>(Hide descriptions...)</h3></div>
-      <div class="info-text"><h3>(Show descriptions...)</h3></div>
+      <div class="info-hide" id="info-hide-cd"><h3>(Hide descriptions...)</h3></div>
+      <div class="info-show" id="info-show-cd"><h3>(Show descriptions...)</h3></div>
         {% for row in frontcode %}
-          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %}"> 
+          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %}" id="item-cd"> 
             <div class="top-label">
               <img class="logo" src="assets/images/{{ row.logo }}">
               <h2 class="hed">{{ row.name }}</h2>
@@ -14,7 +14,7 @@
             <a href="{{ row.link }}" target="_blank">
               <img class="item-img" src="assets/images/{{ row.img }}">
             </a>
-            <div class="item-text">
+            <div class="item-text" id="item-text-cd">
               <p>{{ row.description }}</p>
               <h5>{{ row.tools }}</h5>
             </div>
@@ -25,8 +25,10 @@
 
     <div class="section" id="audience">
       <h1>Audience Strategy</h1>
+      <div class="info-hide" id="info-hide-st"><h3>(Hide descriptions...)</h3></div>
+      <div class="info-show" id="info-show-st"><h3>(Show descriptions...)</h3></div>
         {% for row in frontaudience %}
-          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %}"> 
+          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %}" id="item-st"> 
             <div class="top-label">
               <img class="logo" src="assets/images/{{ row.logo }}">
               <h2 class="hed">{{ row.name }}</h2>
@@ -34,7 +36,7 @@
             <a href="{{ row.link }}" target="_blank">
               <img class="item-img" src="assets/images/{{ row.img }}">
             </a>
-            <div class="item-text">
+            <div class="item-text" id="item-text-st">
               <p>{{ row.description }}</p>
               <h5>{{ row.tools }}</h5>              
             </div>
