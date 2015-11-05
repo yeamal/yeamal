@@ -1,7 +1,6 @@
 {
   "META": {
-    "website_title": "Mallory Busch",
-    "about": "This website was built by Mallory Busch in the fall of 2015 using The Texas Tribune's graphics kit, which utilizes Google Spreadsheets and the templating system nunjucks. The code is available here on Github."
+    "website_title": "Mallory Busch"
   },
   "frontcode": [
     {
@@ -112,8 +111,9 @@
   ],
   "frontaudience": [
     {
-      "name": "TIME Quote Cards",
+      "name": "TIME Social Cards",
       "img": "maya-angelou.png",
+      "description": "In the spring of 2015, I initiated the use of Social Cards for TIME social media accounts. I co-designed the template (and later designed similar versions for MONEY and Fortune Magazine) and produced the majority of the Social Cards used by TIME in April, May and June of 2015. During this time, I also led a meeting for Time Inc. brands (such as Sports Illustrated and People) on how to use and create a variety of Social Cards for their social media platforms.",
       "link": "https://twitter.com/TIME/status/603980353833951233",
       "date": 42095,
       "organization": "TIME",
@@ -122,8 +122,9 @@
     },
     {
       "name": "GIFs for TIME and Time Inc.",
-      "img": "Emma-Sulkowicz-2.gif",
-      "link": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
+      "img": "groban.gif",
+      "description": "While at TIME, I used my Photoshop experience to create gifs in order to publicize stories on social media accounts. These gifs were made from videos that had been created by TIME, photos that had been licensed for use, or screen recordings I took to show how a user could interact with a graphic. These gifs were successful, and led to me leading a meeting for Time Inc. brands on how to use and create gifs for their social media accounts.",
+      "link": "http://timemagazine.tumblr.com/post/118453532458/josh-groban-dad-joke",
       "date": 42125,
       "organization": "TIME",
       "position": "Audience Development Intern",
@@ -132,6 +133,7 @@
     {
       "name": "TIME Photo Cards",
       "img": "misspiggy.png",
+      "description": "At TIME, I also created Photo Cards to publicize stories and evergreen content, adding quotes to high-quality images. For the card's format, I combined a pre-existing photo credit template and our newly-created Social Card template to design these Photo Cards. The cards were published to TIME's Twitter, Facebook and Tumblr accounts.",
       "link": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist",
       "organization": "TIME",
       "position": "Audience Development Intern",
@@ -140,8 +142,9 @@
     },
     {
       "name": "TIME Tumblr",
-      "img": "groban.gif",
-      "link": "http://timemagazine.tumblr.com/post/118380668471/your-twenties",
+      "img": "Emma-Sulkowicz-2.gif",
+      "description": "I ran TIME's Tumblr account for two months in the Spring of 2015. In this position, I posted several articles a day, using a variety of text/image/gif formats. I was in charge of choosing which content to post on this platform and how to publicize it. During this period, I posted one of TIME's most-reblogged pieces of content (40,000+ notes) second only to TIME's \"Black Lives Matter\" cover.",
+      "link": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
       "organization": "TIME",
       "position": "Audience Development Intern",
       "logo": "time.png",
@@ -152,6 +155,7 @@
     {
       "name": "TIME + Snapchat",
       "img": "snapchat.png",
+      "description": "In my first week at TIME, I pitched the idea for a Snapchat story at the upcoming TIME 100 gala (the idea went through, and became an \"Our Story\" viewable to those within the New York metro area). In my last week at TIME, I developed the action plan for TIME's Snapchat account, which now exists under the username time_mag.",
       "organization": "TIME",
       "logo": "time.png",
       "two": "y",
@@ -161,6 +165,7 @@
     {
       "name": "Sherman Ave Branding",
       "img": "shermanave-strategy.png",
+      "description": "For a year at Northwestern, I was an editor of Sherman Ave, a satirical student website founded two years before I joined it. As editor, I not only reviewed articles prior to publication, but I sought ways to grow the brand. I designed the publication's logo, laptop stickers and t-shirts; coordinated writer recruitments; created graphics and videos to accompany stories; posted articles to Facebook and Twitter; and directed one of our writers to dress in a purple morphsuit and disperse fliers to visiting high school seniors.",
       "link": "https://twitter.com/Sherman_Ave",
       "organization": "Sherman Ave",
       "logo": "sherman-ave-square.png",
