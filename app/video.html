@@ -2,45 +2,56 @@
 
 {% block content %}
 	<div class="section">
-		<h1>North by Northwestern</h1>
-		<ul>
-			{% for row in video %}
-				{% if row.organization == 'North by Northwestern' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Sherman Ave</h1>
-		<ul>
-			{% for row in video %}
-				{% if row.organization == 'Sherman Ave' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Medill Magazine</h1>
-		<ul>
-			{% for row in video %}
-				{% if row.organization == 'Medill Magazine' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Just For Fun</h1>
-		<ul>
-			{% for row in video %}
-				{% if row.organization == 'etc' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Classwork</h1>
-		<ul>
-			{% for row in video %}
-				{% if row.organization == 'Class' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
+		<h1>Videography</h1>
+		<div class="team">
+			<h2>North by Northwestern</h2>
+			<ul>
+				{% for row in video %}
+					{% if row.organization == 'North by Northwestern' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="team">
+			<h2>Sherman Ave</h2>
+			<ul>
+				{% for row in video %}
+					{% if row.organization == 'Sherman Ave' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="team">
+			<h2>Medill Magazine</h2>
+			<ul>
+				{% for row in video %}
+					{% if row.organization == 'Medill Magazine' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="team">
+			<h2>Just For Fun</h2>
+			<ul>
+				{% for row in video %}
+					{% if row.organization == 'etc' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="team">
+			<h2>Classwork</h2>
+			<ul>
+				{% for row in video %}
+					{% if row.organization == 'Class' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
 	</div>
 {% endblock %}

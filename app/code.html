@@ -22,46 +22,27 @@
           </div>
         {% endfor %}
     </div>
-	<div class="section">
-		<h1>The Texas Tribune</h1>
-		<ul>
-			{% for row in code %}
-				{% if row.organization == 'The Texas Tribune' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Knight Lab</h1>
-		<ul>
-			{% for row in code %}
-				{% if row.organization == 'Knight Lab' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>North by Northwestern</h1>
-		<ul>
-			{% for row in code %}
-				{% if row.organization == 'North by Northwestern' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Classwork</h1>
-		<ul>
-			{% for row in code %}
-				{% if row.organization == 'Class' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Just for fun</h1>
-		<ul>
-			{% for row in code %}
-				{% if row.organization == 'etc' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
+    <hr>
+	<div class="section section-code">
+		<div class="team">
+			<h2>The Texas Tribune</h2>
+			<ul>
+				{% for row in code %}
+					{% if row.organization == 'The Texas Tribune' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="team">
+			<h2>North by Northwestern</h2>
+			<ul>
+				{% for row in code %}
+					{% if row.organization == 'North by Northwestern' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
 	</div>
 {% endblock %}

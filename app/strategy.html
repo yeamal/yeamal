@@ -2,7 +2,7 @@
 
 {% block content %}
 	<div class="section" id="audience">
-      <h1>Featured Experience</h1>
+      <h1>Audience Strategy</h1>
       <div class="info-hide" id="info-hide-st"><h3>(Hide descriptions...)</h3></div>
       <div class="info-show" id="info-show-st"><h3>(Show descriptions...)</h3></div>
         {% for row in frontaudience %}
@@ -21,47 +21,4 @@
           </div>
         {% endfor %}
     </div>
-	<div class="section">
-		<h1>Additional Experience</h1>
-		<h1>TIME</h1>
-		<ul>
-			{% for row in strategy %}
-				{% if row.organization == 'TIME' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Fortune</h1>
-		<ul>
-			{% for row in strategy %}
-				{% if row.organization == 'Fortune' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>MONEY</h1>
-		<ul>
-			{% for row in strategy %}
-				{% if row.organization == 'MONEY' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>Sherman Ave</h1>
-		<ul>
-			{% for row in strategy %}
-				{% if row.organization == 'Sherman Ave' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-		<h1>North by Northwestern</h1>
-		<ul>
-			{% for row in strategy %}
-				{% if row.organization == 'North by Northwestern' %}
-				<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-				{% endif %}
-			{% endfor %}
-		</ul>
-	</div>
 {% endblock %}

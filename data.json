@@ -174,81 +174,9 @@
   ],
   "code": [
     {
-      "name": "Luckless at Capitol, Minimum Wage Advocates Go Local",
-      "link": "http://www.texastribune.org/2015/08/20/inaction-capitol-minimum-wage-advocates-go-local/",
-      "date": 42236,
-      "organization": "The Texas Tribune",
-      "tools": "tools"
-    },
-    {
-      "name": "Emergency Centers to Be Included in \"Baby Moses\" Law",
-      "img": "map.png",
-      "description": "Took an Excel spreadsheet of street addresses and turned it into this cluster map showing the distribution of freestanding emergency centers in Texas.",
-      "link": "http://www.texastribune.org/2015/08/15/new-option-parents-hoping-safely-abandon-newborn/",
-      "date": 42231,
-      "organization": "The Texas Tribune",
-      "logo": "texas.png",
-      "tools": "Excel. Fusion Tables. CSVKit. Google Earth. MapBox."
-    },
-    {
-      "name": "Texas to Hold Districts Accountable for Failing Schools",
-      "img": "flowchart.png",
-      "description": "A responsive flowchart laying out the complicated process for school closures in Texas. Wording changes based on whether the user opens the flowchart in desktop or mobile.",
-      "link": "http://www.texastribune.org/2015/08/13/texas-hold-districts-accountable-failing-schools/?utm_source=texastribune.org&utm_medium=rss&utm_campaign=Tribune%20Feed:%20None?utm_source=31ways_navslider",
-      "date": 42229,
-      "organization": "The Texas Tribune",
-      "logo": "texas.png",
-      "tools": "JavaScript. Scss."
-    },
-    {
-      "name": "Planned Parenthood Out of Cancer Screening Program",
-      "link": "http://www.texastribune.org/2015/08/10/planned-parenthood-be-cut-cancer-screening-program/",
-      "date": 42226,
-      "organization": "The Texas Tribune"
-    },
-    {
-      "name": "New Truancy Law Set to Put Pressure on Schools, Parents",
-      "link": "http://www.texastribune.org/2015/08/08/new-truancy-law-puts-pressure-schools/",
-      "date": 42224,
-      "organization": "The Texas Tribune"
-    },
-    {
-      "name": "In Texas Jails, Hanging Most Common Suicide Method",
-      "img": "suicides.png",
-      "description": "Following Sandra Bland's death in custody, I visualized Texas County jail deaths in terms of race/gender and type of item used for suicides (the item used in Bland's death had been the subject of debate).",
-      "link": "http://www.texastribune.org/2015/07/24/hanging-most-common-suicide-method-texas-jails/",
-      "date": 42209,
-      "organization": "The Texas Tribune",
-      "logo": "texas.png",
-      "tools": "Excel. Font Awesome. Scss."
-    },
-    {
-      "name": "At Majority-Minority Schools, Confederate Names Remain",
-      "img": "confed-schools.png",
-      "description": "In my first week at The Texas Tribune, Confederate symbols were under national debate. I pitched this project –– a look at the public schools in Texas named after prominent Confederate figures, and the schools' racial make-up. Most of these schools were majority-minority. ",
-      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
-      "date": 42186,
-      "organization": "The Texas Tribune",
-      "logo": "texas.png",
-      "tools": "Excel. CSVkit. Scss. "
-    },
-    {
-      "name": "Venbro",
-      "link": "https://twitter.com/yeamal/status/599718739802791936",
-      "date": 42125,
-      "organization": "etc"
-    },
-    {
       "name": "The Grade Escape",
       "img": "grade.png",
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/",
-      "date": 42072,
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Life Advice",
-      "img": "advice.png",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/life-advice/",
       "date": 42072,
       "organization": "North by Northwestern"
     },
@@ -268,36 +196,6 @@
       "tools": "NU PHONE HOME MISSING"
     },
     {
-      "name": "Seeking Faith",
-      "img": "faith.png",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/seeking-faith/",
-      "date": 42072,
-      "organization": "North by Northwestern",
-      "tools": "DEVICE DIVIDE MISSING"
-    },
-    {
-      "name": "Putt-ing Up With the Cold",
-      "img": "putting.png",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/patten/",
-      "date": 42072,
-      "organization": "North by Northwestern",
-      "tools": "NU PHONE HOME MISSING"
-    },
-    {
-      "name": "Tree of (Battery) Life",
-      "img": "tree.png",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/tree-of-battery-life/",
-      "date": 42072,
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Rested and Recharged",
-      "img": "rested.jpg",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/rested-and-recharged/",
-      "date": 42072,
-      "organization": "North by Northwestern"
-    },
-    {
       "name": "{Not otherwise specified}",
       "img": "ednos.png",
       "description": "The stress of college life has dire consequences for those with disordered eating.",
@@ -314,35 +212,11 @@
       "organization": "North by Northwestern"
     },
     {
-      "name": "Come One, Come All",
-      "img": "dildo.png",
-      "description": "Dive head first into the Chicago sex shop scene",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/sex/",
-      "date": 42072,
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Cage Match",
-      "img": "cage.png",
-      "description": "When students compete for school film equipment, nobody wins.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/rtvf/",
-      "date": 42072,
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "North by Northwestern Winter Magazine 2015",
+      "name": "NBN Winter Magazine 2015",
       "img": "mag.png",
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/index/",
       "date": 42064,
       "organization": "North by Northwestern"
-    },
-    {
-      "name": "Romaine",
-      "img": "romaine.gif",
-      "link": "https://romaine.herokuapp.com/",
-      "date": 41974,
-      "organization": "Knight Lab",
-      "logo": "knightlab.png"
     },
     {
       "name": "Facing the Truth",
@@ -355,28 +229,23 @@
       "tools": "jQuery. Scss. Yeoman."
     },
     {
-      "name": "Putting on a Happy Face",
-      "img": "econ.gif",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/evanston/",
-      "date": 41974,
-      "organization": "North by Northwestern",
-      "logo": "nbn.png"
+      "name": "Luckless at Capitol, Minimum Wage Advocates Go Local",
+      "link": "http://www.texastribune.org/2015/08/20/inaction-capitol-minimum-wage-advocates-go-local/",
+      "date": 42236,
+      "organization": "The Texas Tribune",
+      "tools": "tools"
     },
     {
-      "name": "Ahead of His Time",
-      "img": "wrestling.gif",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/wrestling/",
-      "date": 41974,
-      "organization": "North by Northwestern",
-      "logo": "nbn.png"
+      "name": "Planned Parenthood Out of Cancer Screening Program",
+      "link": "http://www.texastribune.org/2015/08/10/planned-parenthood-be-cut-cancer-screening-program/",
+      "date": 42226,
+      "organization": "The Texas Tribune"
     },
     {
-      "name": "It Happens Here",
-      "img": "here.gif",
-      "link": "http://ianfrancisrobinson.github.io/jour320/",
-      "date": 41699,
-      "organization": "Class",
-      "logo": "nu.jpg"
+      "name": "New Truancy Law Set to Put Pressure on Schools, Parents",
+      "link": "http://www.texastribune.org/2015/08/08/new-truancy-law-puts-pressure-schools/",
+      "date": 42224,
+      "organization": "The Texas Tribune"
     }
   ],
   "SOS": [
@@ -455,7 +324,6 @@
       "organization": "TIME"
     },
     {
-      "name": "Tweet example: Scar",
       "link": "https://twitter.com/Sherman_Ave/status/505370788858695680",
       "organization": "Sherman Ave"
     },
@@ -594,10 +462,7 @@
   ],
   "mallory": [
     {
-      "start": "Mallory Busch is a senior at the Medill School of Journalism who isn't very good at speaking in the third person. She is graduating in December 2015 with degrees in Journalism and International Studies from Northwestern University in Evanston, Illinois. "
-    },
-    {
-      "start": "Mallory is curious about all forms of media, and intent about finding ways to not only spread the news, but captivate audiences and inform their decisions. Her favorite experiences in media include:",
+      "start": "I'm an imminently graduating senior from the Medill School of Journalism at Northwestern Unviersity. I love telling stories, visualizing data, experimenting with new ways to share knowledge and impacting communities. Here are a few of the random things I've enjoyed doing in the media-realm, bullet-point version:",
       "experiences": "Digging through data to produce compelling stories with The Texas Tribune"
     },
     {
@@ -625,13 +490,10 @@
       "experiences": "Helping to produce an app with NU's course API to allow students to choose classes based on their Facebook friends"
     },
     {
-      "experiences": "Seeing her stories impact communities while at The Texas Tribune"
+      "experiences": "Seeing stories impact communities while at The Texas Tribune"
     },
     {
       "experiences": "And of course, any time the code works"
-    },
-    {
-      "end": "That's an incomplete list, but hopefully it sheds some light on Mallory's variety of interests and talents, as well as her attempts to seem well-rounded, approachable and funny."
     }
   ],
   "design": [
@@ -1023,6 +885,225 @@
     {
       "classes": "video",
       "link": "http://www.northbynorthwestern.com/story/looking-inside-an-apartment-art-gallery/"
+    },
+    {
+      "name": "name",
+      "img": "link",
+      "description": "date",
+      "classes": "organization"
+    },
+    {
+      "name": "Tumblr Post/Gif example: Emma Sulkowicz",
+      "img": "http://timemagazine.tumblr.com/post/119540796814/emma-sulkowicz",
+      "description": 42125,
+      "classes": "TIME"
+    },
+    {
+      "name": "Quote Card example: Maya Angelou",
+      "img": "https://twitter.com/TIME/status/603980353833951233",
+      "description": 42095,
+      "classes": "TIME"
+    },
+    {
+      "name": "Tumblr Post/Gif example: Nick Offerman",
+      "img": "http://timemagazine.tumblr.com/post/121210099989/nick-offerman-ron-swanson",
+      "classes": "TIME"
+    },
+    {
+      "name": "Quote Card example: Miss Piggy",
+      "img": "http://timemagazine.tumblr.com/post/120780080524/miss-piggy-feminist",
+      "classes": "TIME"
+    },
+    {
+      "name": "Gif example: Pitch Perfect",
+      "img": "http://timemagazine.tumblr.com/post/118980957243/pitch-perfect-name-generator",
+      "classes": "TIME"
+    },
+    {
+      "name": "Photo Card example: Mad Men",
+      "img": "http://timemagazine.tumblr.com/post/118969224460/mad-men-history",
+      "classes": "TIME"
+    },
+    {
+      "name": "Tumblr Post/Gif example: Josh Groban",
+      "img": "http://timemagazine.tumblr.com/post/118453532458/josh-groban-dad-joke",
+      "classes": "TIME"
+    },
+    {
+      "name": "Gif example: Young Adult books",
+      "img": "http://timemagazine.tumblr.com/post/118216915584/100-best-young-adult-novels",
+      "classes": "TIME"
+    },
+    {
+      "name": "Tumblr Post example: When you graduate",
+      "img": "http://timemagazine.tumblr.com/post/118380668471/your-twenties",
+      "classes": "TIME"
+    },
+    {
+      "name": "Social Card example: Sally Jewell",
+      "img": "http://timemagazine.tumblr.com/post/118449592949/sally-jewell-mothers-day",
+      "classes": "TIME"
+    },
+    {
+      "name": "Social Card/Tumblr example: Laverne Cox",
+      "img": "http://timemagazine.tumblr.com/post/120647054090",
+      "classes": "TIME"
+    },
+    {
+      "name": "Tweet example: Scar",
+      "img": "https://twitter.com/Sherman_Ave/status/505370788858695680",
+      "classes": "Sherman Ave"
+    },
+    {
+      "name": "Tweet example: Football live-tweeting a Northwestern game",
+      "img": "https://twitter.com/Sherman_Ave/status/538745156389068800",
+      "classes": "Sherman Ave"
+    },
+    {
+      "name": "Tweet example: Butter churn",
+      "img": "https://twitter.com/Sherman_Ave/status/520618165681000448",
+      "classes": "Sherman Ave"
+    },
+    {
+      "name": "Tweet example: MIB",
+      "img": "https://twitter.com/Sherman_Ave/status/505066839274438656",
+      "classes": "Sherman Ave"
+    },
+    {
+      "name": "Tweet example: The Rock",
+      "img": "https://twitter.com/Sherman_Ave/status/436642999783542785",
+      "classes": "Sherman Ave"
+    },
+    {
+      "name": "Social Card template designed for Fortune",
+      "img": "https://twitter.com/FortuneMagazine/status/608443796557328388",
+      "classes": "Fortune"
+    },
+    {
+      "name": "Social Card template designed for MONEY",
+      "img": "https://twitter.com/MONEY/status/608557755000057856",
+      "classes": "MONEY"
+    },
+    {
+      "name": "Site promo: Purple Morphsuit Dances Around Campus",
+      "img": "https://vimeo.com/87242288",
+      "description": 41699,
+      "classes": "North by Northwestern"
+    },
+    {
+      "name": "Friday Night Rites",
+      "img": "http://www.northbynorthwestern.com/story/friday-night-rites/",
+      "description": 41424,
+      "classes": "North by Northwestern"
+    },
+    {
+      "name": "My year in Ho House",
+      "img": "http://www.northbynorthwestern.com/story/first-impressions-freshman-housing/",
+      "classes": "North by Northwestern"
+    },
+    {
+      "name": "Where are they now?",
+      "img": "http://www.northbynorthwestern.com/story/where-are-they-now/",
+      "classes": "North by Northwestern"
+    },
+    {
+      "name": "ReFusionShocka will rock ya",
+      "img": "http://www.northbynorthwestern.com/story/refusionshaka-will-rock-ya/",
+      "classes": "North by Northwestern"
+    },
+    {
+      "name": "Evanston couple turns passion for photography into full business",
+      "img": "http://dailynorthwestern.com/2013/05/07/city/evanston-couple-turns-passion-for-university-photography-into-full-business/",
+      "classes": "The Daily Northwestern"
+    },
+    {
+      "name": "Pi Kappa Alpha hosts run for Boston on the Lakefill",
+      "img": "http://dailynorthwestern.com/2013/04/28/campus/pi-kappa-alpha-hosts-run-for-boston-on-the-lakefill/",
+      "classes": "The Daily Northwestern"
+    },
+    {
+      "name": "Chicago Bureau gives Medill students the chance to report on juvenile justice",
+      "img": "http://www.medill.northwestern.edu/news/feature-chicago-bureau-gives-students-chance-to-report-on-juvenile-justice.html",
+      "description": 41757,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Alan Yu (BSJ13, MSJ13) Wins Kroc Fellowship",
+      "img": "http://www.medill.northwestern.edu/news/news-alan-yu-kroc-fellowship.html",
+      "description": 41432,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Clinton and Emanuel talk politics, ‘Hard Choices’ in Chicago",
+      "img": "http://www.medill.northwestern.edu/news/news-2014-clinton-and-emanuel-talk-politics,-hard-choices-in-chicago.html",
+      "description": 41806,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Medill Media Teens featured on Big Ten Network",
+      "img": "http://www.medill.northwestern.edu/news/news-medill-media-teens-featured-on-big-ten-network.html",
+      "description": 41661,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "IMC undergraduate certificate students create campaign for Fox Sports",
+      "img": "http://www.medill.northwestern.edu/news/news-imc-fox-sports.html",
+      "description": 41441,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Chicago broadcasters speak at Medill for Asian American Student Journalists event",
+      "img": "http://www.medill.northwestern.edu/news/news-broadcasters-speak-student-journalists.html",
+      "description": 41414,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Medill Cherubs are most diverse class yet",
+      "img": "http://www.medill.northwestern.edu/news/news-cherubs-diverse.html",
+      "description": 41442,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "IMC Certificate Program graduates record class",
+      "img": "http://www.medill.northwestern.edu/news/news-imc-certificate-2013-graduation.html",
+      "description": 41450,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Knight Lab starts school year with new innovations",
+      "img": "http://www.medill.northwestern.edu/news/news-knight-lab-2013-school-year-new-innovations.html",
+      "description": 41543,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "IMC faculty, students take part in Social Media Week",
+      "img": "http://www.medill.northwestern.edu/news/news-imc-social-media-week-september-2013.html",
+      "description": 41547,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Documentary Class showcases student films",
+      "img": "http://www.medill.northwestern.edu/news/news-documentary-class.html",
+      "description": 41445,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Professor David Abrahamson honored with lifetime achievement award",
+      "img": "http://www.medill.northwestern.edu/news/news-abrahamson-lifetime.html",
+      "description": 41465,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "High school students immerse in journalism at Medill",
+      "img": "http://www.medill.northwestern.edu/news/news-high-school-journalism-day-2013.html",
+      "description": 41577,
+      "classes": "Medill Magazine"
+    },
+    {
+      "name": "Quaker PepsiCo marketers discuss consumer insights, brand engagement",
+      "img": "http://www.medill.northwestern.edu/news/news-talentq-quaker-pepsico.html",
+      "description": 41562,
+      "classes": "Medill Magazine"
     }
   ],
   "writing": [
@@ -1067,6 +1148,11 @@
       "organization": "TIME"
     },
     {
+      "name": "My News Apps internship. Or, how I learned to stop worrying and love the spreadsheet",
+      "link": "http://news.apps.texastribune.org/post/127255447113/my-news-apps-internship-or-how-i-learned-to-stop",
+      "organization": "TT"
+    },
+    {
       "name": "Long a challenge, Snapchat delivers crowd-sourced storytelling",
       "link": "http://knightlab.northwestern.edu/2015/03/25/long-a-challenge-snapchat-delivers-crowd-sourced-storytelling/",
       "organization": "Knight Lab"
@@ -1090,121 +1176,6 @@
       "name": "Event recap: Twitter talks elections, politics, and data",
       "link": "http://knightlab.northwestern.edu/2014/07/15/event-recap-twitter-talks-elections-politics-and-data/",
       "organization": "Knight Lab"
-    },
-    {
-      "name": "Chicago Bureau gives Medill students the chance to report on juvenile justice",
-      "link": "http://www.medill.northwestern.edu/news/feature-chicago-bureau-gives-students-chance-to-report-on-juvenile-justice.html",
-      "date": 41757,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Alan Yu (BSJ13, MSJ13) Wins Kroc Fellowship",
-      "link": "http://www.medill.northwestern.edu/news/news-alan-yu-kroc-fellowship.html",
-      "date": 41432,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Clinton and Emanuel talk politics, ‘Hard Choices’ in Chicago",
-      "link": "http://www.medill.northwestern.edu/news/news-2014-clinton-and-emanuel-talk-politics,-hard-choices-in-chicago.html",
-      "date": 41806,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Medill Media Teens featured on Big Ten Network",
-      "link": "http://www.medill.northwestern.edu/news/news-medill-media-teens-featured-on-big-ten-network.html",
-      "date": 41661,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "IMC undergraduate certificate students create campaign for Fox Sports",
-      "link": "http://www.medill.northwestern.edu/news/news-imc-fox-sports.html",
-      "date": 41441,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Chicago broadcasters speak at Medill for Asian American Student Journalists event",
-      "link": "http://www.medill.northwestern.edu/news/news-broadcasters-speak-student-journalists.html",
-      "date": 41414,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Medill Cherubs are most diverse class yet",
-      "link": "http://www.medill.northwestern.edu/news/news-cherubs-diverse.html",
-      "date": 41442,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "IMC Certificate Program graduates record class",
-      "link": "http://www.medill.northwestern.edu/news/news-imc-certificate-2013-graduation.html",
-      "date": 41450,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Knight Lab starts school year with new innovations",
-      "link": "http://www.medill.northwestern.edu/news/news-knight-lab-2013-school-year-new-innovations.html",
-      "date": 41543,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "IMC faculty, students take part in Social Media Week",
-      "link": "http://www.medill.northwestern.edu/news/news-imc-social-media-week-september-2013.html",
-      "date": 41547,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Documentary Class showcases student films",
-      "link": "http://www.medill.northwestern.edu/news/news-documentary-class.html",
-      "date": 41445,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Professor David Abrahamson honored with lifetime achievement award",
-      "link": "http://www.medill.northwestern.edu/news/news-abrahamson-lifetime.html",
-      "date": 41465,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "High school students immerse in journalism at Medill",
-      "link": "http://www.medill.northwestern.edu/news/news-high-school-journalism-day-2013.html",
-      "date": 41577,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Quaker PepsiCo marketers discuss consumer insights, brand engagement",
-      "link": "http://www.medill.northwestern.edu/news/news-talentq-quaker-pepsico.html",
-      "date": 41562,
-      "organization": "Medill Magazine"
-    },
-    {
-      "name": "Friday Night Rites",
-      "link": "http://www.northbynorthwestern.com/story/friday-night-rites/",
-      "date": 41424,
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "My year in Ho House",
-      "link": "http://www.northbynorthwestern.com/story/first-impressions-freshman-housing/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Where are they now?",
-      "link": "http://www.northbynorthwestern.com/story/where-are-they-now/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "ReFusionShocka will rock ya",
-      "link": "http://www.northbynorthwestern.com/story/refusionshaka-will-rock-ya/",
-      "organization": "North by Northwestern"
-    },
-    {
-      "name": "Evanston couple turns passion for photography into full business",
-      "link": "http://dailynorthwestern.com/2013/05/07/city/evanston-couple-turns-passion-for-university-photography-into-full-business/",
-      "organization": "The Daily Northwestern"
-    },
-    {
-      "name": "Pi Kappa Alpha hosts run for Boston on the Lakefill",
-      "link": "http://dailynorthwestern.com/2013/04/28/campus/pi-kappa-alpha-hosts-run-for-boston-on-the-lakefill/",
-      "organization": "The Daily Northwestern"
     }
   ]
 }
