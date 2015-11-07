@@ -1,47 +1,15 @@
 {% extends "_base.html" %}
 
 {% block content %}
-    <div class="section" id="code">
-      <h1>Code + Data</h1>
-      <div class="info-hide" id="info-hide-cd"><h3>(Hide descriptions...)</h3></div>
-      <div class="info-show" id="info-show-cd"><h3>(Show descriptions...)</h3></div>
-        {% for row in frontcode %}
-          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %} item-cd"> 
-            <div class="top-label">
-              <img class="logo" src="assets/images/{{ row.logo }}">
-              <h2 class="hed">{{ row.name }}</h2>
-            </div>
-            <a href="{{ row.link }}" target="_blank">
-              <img class="item-img" src="assets/images/{{ row.img }}">
-            </a>
-            <div class="item-text-cd">
-              <p>{{ row.description }}</p>
-              <h5>{{ row.tools }}</h5>
-            </div>
-          </div>
-        {% endfor %}
-      <div class="see-more"><a href="code.html"><h3><em>See more...</em></h3></a></div>
+<div class="section">
+  <div class="intro">
+    <div class="hello">
+      <h1>Mallory Busch.</h1>
+      <h2>Visual Journalist. Audience Strategist.</h2>
+      <h4><a href="https://twitter.com/yeamal" target="_blank">@yeamal</a></h4>
     </div>
-
-    <div class="section" id="audience">
-      <h1>Audience Strategy</h1>
-      <div class="info-hide" id="info-hide-st"><h3>(Hide descriptions...)</h3></div>
-      <div class="info-show" id="info-show-st"><h3>(Show descriptions...)</h3></div>
-        {% for row in frontaudience %}
-          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four{% endif %}{% if row.last == 'y' %} last{% endif %} item-st"> 
-            <div class="top-label">
-              <img class="logo" src="assets/images/{{ row.logo }}">
-              <h2 class="hed">{{ row.name }}</h2>
-            </div>
-            <a href="{{ row.link }}" target="_blank">
-              <img class="item-img" src="assets/images/{{ row.img }}">
-            </a>
-            <div class="item-text-st">
-              <p>{{ row.description }}</p>
-              <h5>{{ row.tools }}</h5>              
-            </div>
-          </div>
-        {% endfor %}
-      <div class="see-more"><a href="strategy.html"><h3><em>See more...</em></h3></a></div>
-    </div>
+      <img class="mallory" src="assets/images/busch-mallory.jpg">
+  </div>
+  <img class="mallory-mobile" src="assets/images/busch-mallory.jpg">
+</div>
 {% endblock %}

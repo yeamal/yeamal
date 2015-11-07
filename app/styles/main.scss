@@ -118,6 +118,16 @@ h4 {
 	text-overflow: ellipsis;
 }
 
+.hello {
+  padding: 0 1em 0em 1em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  h4 {
+  	text-decoration: underline;
+  }
+}
+
 html, body {
 	height: 100%;
 }
@@ -132,6 +142,20 @@ html, body {
 
 .info-hide h3:hover, .info-show h3:hover {
 		color: $mid-light;
+}
+
+.intro {
+  min-height: 0vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2em 1em 2em 1em;
+  @include media ($medium) {
+  	min-height: 80vh;
+  }
 }
 
 div h3 {
@@ -221,6 +245,33 @@ div.item.last{
 	padding: .5em;
 	float: left;
 	vertical-align: text-top;
+}
+
+.mallory-mobile {
+	border-radius: 50%;
+	padding: 1em;
+	width: 90%;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+    @include media ($small) {
+    	width: 20em;
+    }
+    @include media ($medium) {
+    	display: none;
+    }
+}
+
+.mallory {
+	display: none;
+	@include media ($medium) {
+		display: block;
+		border-radius: 50%;
+		padding: 1em;
+		width: 20em;
+		margin-left: auto;
+	    margin-right: auto;		
+	}
 }
 
 .m:hover {
