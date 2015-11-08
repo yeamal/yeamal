@@ -3,10 +3,10 @@
 {% block content %}
 	<div class="section" id="video">
       <h1>Videography</h1>
-      <div class="info-hide" id="info-hide-st"><h3>(Hide descriptions...)</h3></div>
-      <div class="info-show" id="info-show-st"><h3>(Show descriptions...)</h3></div>
+      <div class="info-hide" id="info-hide-vd"><h3>(Hide descriptions...)</h3></div>
+      <div class="info-show" id="info-show-vd"><h3>(Show descriptions...)</h3></div>
         {% for row in frontvideo %}
-          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four-vid{% endif %}{% if row.last == 'y' %} last{% endif %} item-st"> 
+          <div class="item{% if row.two == 'y' %} two{% endif %}{% if row.three == 'y' %} three{% endif %}{% if row.four == 'y' %} four-vid{% endif %}{% if row.last == 'y' %} last{% endif %} item-vd"> 
             <div class="top-label">
               <img class="logo" src="assets/images/{{ row.logo }}">
               <h2 class="hed">{{ row.name }}</h2>
@@ -14,7 +14,7 @@
             <a href="{{ row.link }}" target="_blank">
               <img class="item-img" src="assets/images/{{ row.img }}">
             </a>
-            <div class="item-text-st">
+            <div class="item-text-vd">
               <p>{{ row.description }}</p>
               <h5>{{ row.tools }}</h5>              
             </div>

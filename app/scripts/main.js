@@ -51,6 +51,21 @@
             $('#info-hide-st').hide(1000);
         });
 
+        //VIDEO
+        $('#info-show-vd').click(function(){
+            $('.item-text-vd').slideToggle(1000);
+            $('.item-vd').animate(1000);
+            $('#info-show-vd').hide(1000);
+            $('#info-hide-vd').show(1000);
+        });
+
+        $('#info-hide-vd').click(function(){
+            $('.item-text-vd').slideToggle(1000);
+            $('.item-vd').animate(1000);
+            $('#info-show-vd').show(1000);
+            $('#info-hide-vd').hide(1000);
+        });
+
 
     if (pymChild) {
       pymChild.sendHeight();
