@@ -9,7 +9,7 @@ $mid-dark: #52616a;
 $darkest: #1d1f21;
 
 $small: 450px;
-$sm-md: 550px;
+$sm-md: 575px;
 $medium: 950px;
 $large: 1350px;
 
@@ -19,13 +19,6 @@ a {
 
 a:hover, div.see-more a h3:hover {
 	text-decoration: underline;
-}
-
-.tab.active {
-	background-color: $lightest;
-	h4 {
-		color: $darkest;
-	}	
 }
 
 .footer {
@@ -42,6 +35,19 @@ a:hover, div.see-more a h3:hover {
 
 .footer-about a {
 	color: $mid-light;
+}
+
+.four-vid {
+	display: none;
+	@include media ($sm-md) {
+		display: block;
+	}
+	@include media ($medium) {
+		display: none;
+	}
+	@include media ($large) {
+		display: block;
+	}
 }
 
 .fa-bars {
@@ -135,7 +141,7 @@ html, body {
 hr {
 	width: 80%;
 	height: 1px;
-	margin: 1.5em 0em 2.5em 0em;
+	margin: 1.5em 0em 1.5em 0em;
 	margin-right: auto;
 	margin-left: auto;
 	color: $mid-dark;
@@ -383,6 +389,13 @@ p {
 	@include media ($sm-md) {
 		margin: 0 1em;
 	}
+}
+
+.tab.active {
+	background-color: $lightest;
+	h4 {
+		color: $darkest;
+	}	
 }
 
 .tab.selected {

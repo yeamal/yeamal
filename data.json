@@ -389,22 +389,15 @@
   ],
   "video": [
     {
-      "name": "Purple Morphsuit Dances Around Northwestern University",
-      "link": "https://vimeo.com/87242288",
-      "date": 41699,
-      "organization": "North by Northwestern"
+      "name": "The religious response: Edgewater's communities of faith stand up for the LGBT cause",
+      "link": "https://vimeo.com/81016015",
+      "organization": "Class"
     },
     {
-      "name": "Interviewing Students After 30 Hours of Dancing",
-      "link": "https://www.youtube.com/watch?v=J_KAnrJSCok",
-      "date": 41709,
-      "organization": "Sherman Ave"
-    },
-    {
-      "name": "We Will. The Campaign for Northwestern Parody",
-      "link": "https://www.youtube.com/watch?v=meA87TasIuc",
-      "date": 41739,
-      "organization": "Sherman Ave"
+      "name": "Independent Spirits brings fine wine to Edgewater",
+      "link": "https://vimeo.com/76402009",
+      "date": 41548,
+      "organization": "Class"
     },
     {
       "name": "Behind the Scenes: Purple Morphsuit Dancing",
@@ -425,17 +418,6 @@
       "organization": "North by Northwestern"
     },
     {
-      "name": "The religious response: Edgewater's communities of faith stand up for the LGBT cause",
-      "link": "https://vimeo.com/81016015",
-      "organization": "Class"
-    },
-    {
-      "name": "Independent Spirits brings fine wine to Edgewater",
-      "link": "https://vimeo.com/76402009",
-      "date": 41548,
-      "organization": "Class"
-    },
-    {
       "name": "SASA brings Holi celebration to NU",
       "link": "http://www.northbynorthwestern.com/story/sasa-brings-holi-celebration-to-nu/",
       "date": 41393,
@@ -448,21 +430,21 @@
       "organization": "North by Northwestern"
     },
     {
-      "name": "NorCal Adventure",
-      "link": "https://vimeo.com/105493968",
-      "date": 41883,
-      "organization": "etc"
-    },
-    {
       "name": "How Rifka Cook Found Love",
       "link": "http://www.northbynorthwestern.com/story/how-rifka-cook-found-love/",
       "date": 41423,
       "organization": "North by Northwestern"
+    },
+    {
+      "name": "Interviewing Students After 30 Hours of Dancing",
+      "link": "https://www.youtube.com/watch?v=J_KAnrJSCok",
+      "date": 41709,
+      "organization": "Sherman Ave"
     }
   ],
   "mallory": [
     {
-      "start": "I'm an imminently graduating senior from the Medill School of Journalism at Northwestern Unviersity. I love telling stories, visualizing data, experimenting with new ways to share knowledge and impacting communities. Here are a few of the random things I've enjoyed doing in the media-realm, bullet-point version:",
+      "start": "I'm an imminently graduating senior from the Medill School of Journalism at Northwestern Unviersity. I love telling stories, visualizing data, experimenting with new ways to share knowledge and impacting communities. Here are a few of the random things I'm proud of doing in the media-realm, bullet-point version:",
       "experiences": "Digging through data to produce compelling stories with The Texas Tribune"
     },
     {
@@ -490,10 +472,43 @@
       "experiences": "Helping to produce an app with NU's course API to allow students to choose classes based on their Facebook friends"
     },
     {
-      "experiences": "Seeing stories impact communities while at The Texas Tribune"
+      "experiences": "Seeing my stories impact communities while at The Texas Tribune"
     },
     {
       "experiences": "And of course, any time the code works"
+    }
+  ],
+  "frontvideo": [
+    {
+      "name": "NorCal Adventure",
+      "img": "norcal.gif",
+      "description": "This was a labor of love: a personal video chronicling a four-day trip in the Bay Area, summer of 2014.",
+      "link": "https://vimeo.com/105493968",
+      "logo": "m-darkest.png"
+    },
+    {
+      "name": "We Will. The Parody",
+      "img": "wewill.gif",
+      "description": "In winter 2014, Northwestern launched a multi-billion dollar fundraising campaign. So of course, Sherman Ave had to parody it.",
+      "link": "https://www.youtube.com/watch?v=meA87TasIuc",
+      "logo": "sherman-ave-square.png"
+    },
+    {
+      "name": "Dance Marathon Promo",
+      "img": "behind.png",
+      "description": "Supporting marathon dancers. Promoting a student publication. All while making a fool of myself in a purple morphsuit.",
+      "link": "https://vimeo.com/87242288",
+      "logo": "nbn.png",
+      "two": "y"
+    },
+    {
+      "name": "SASA Brings Holi Celebration to NU",
+      "img": "holi.png",
+      "description": "A photo-audio story from way back in ye old days of freshman year (2013), this Holi celebration video has always been dear to me.",
+      "link": "http://www.northbynorthwestern.com/story/sasa-brings-holi-celebration-to-nu/",
+      "logo": "nbn.png",
+      "three": "y",
+      "four": "y"
     }
   ],
   "design": [
