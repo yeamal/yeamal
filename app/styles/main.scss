@@ -126,14 +126,18 @@ h4 {
 }
 
 .hello {
-  padding: 0 1em 0em 1em;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  h4 {
-  	text-decoration: underline;
-  }
+    padding: 0 .5em 0em .5em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    h4 {
+  	  text-decoration: underline;
+    }
+    @include media ($small) {
+		width: 80%;
+		padding: 0 1em 0em 1em;
+	}
 }
 
 html, body {

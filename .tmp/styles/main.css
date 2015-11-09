@@ -834,13 +834,17 @@ h4 {
   text-overflow: ellipsis; }
 
 .hello {
-  padding: 0 1em 0em 1em;
+  padding: 0 0.5em 0em 0.5em;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 80%; }
+  width: 100%; }
   .hello h4 {
     text-decoration: underline; }
+  @media screen and (min-width: 450px) {
+    .hello {
+      width: 80%;
+      padding: 0 1em 0em 1em; } }
 
 html, body {
   height: 100%; }
