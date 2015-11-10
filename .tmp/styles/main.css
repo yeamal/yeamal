@@ -1099,7 +1099,7 @@ p {
 
 .tab {
   float: left;
-  padding: 0.5em 0em 0.25em 0.25em;
+  padding: 0.5em 0em 0.25em 0em;
   height: 3em; }
   @media screen and (min-width: 575px) {
     .tab {
