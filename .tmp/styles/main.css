@@ -761,12 +761,12 @@ nav h5 .fa {
       display: inline-block; } }
 
 .footer {
-  height: 2.5em;
   background-color: #52616a;
+  width: 100%;
+  height: 2.5em;
   position: absolute;
   bottom: 0;
-  left: 0;
-  width: 100%; }
+  left: 0; }
 
 .footer-about {
   padding: .8em 0 0 0; }
@@ -790,9 +790,8 @@ nav h5 .fa {
       display: block; } }
 
 .graphic {
-  padding: 2em 0em 3.5em 0em;
-  background-color: #f5f9fc;
-  min-height: 100%; }
+  padding: 0em 0em 2.5em 0em;
+  background-color: #f5f9fc; }
 
 h1, h5 {
   font-weight: 800; }

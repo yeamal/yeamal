@@ -118,7 +118,8 @@
       "date": 42095,
       "organization": "TIME",
       "position": "Audience Development Intern",
-      "logo": "time.png"
+      "logo": "time.png",
+      "window": "y"
     },
     {
       "name": "GIFs for TIME and Time Inc.",
@@ -128,7 +129,8 @@
       "date": 42125,
       "organization": "TIME",
       "position": "Audience Development Intern",
-      "logo": "time.png"
+      "logo": "time.png",
+      "window": "y"
     },
     {
       "name": "TIME Photo Cards",
@@ -138,7 +140,8 @@
       "organization": "TIME",
       "position": "Audience Development Intern",
       "logo": "time.png",
-      "two": "y"
+      "two": "y",
+      "window": "y"
     },
     {
       "name": "TIME Tumblr",
@@ -150,7 +153,8 @@
       "logo": "time.png",
       "three": "y",
       "long": "y",
-      "last": "y"
+      "last": "y",
+      "window": "y"
     },
     {
       "name": "TIME + Snapchat",
@@ -169,7 +173,8 @@
       "link": "https://twitter.com/Sherman_Ave",
       "organization": "Sherman Ave",
       "logo": "sherman-ave-square.png",
-      "last": "y"
+      "last": "y",
+      "window": "y"
     }
   ],
   "code": [

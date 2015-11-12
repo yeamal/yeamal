@@ -11,7 +11,7 @@
               <img class="logo" src="assets/images/{{ row.logo }}">
               <h2 class="hed">{{ row.name }}</h2>
             </div>
-            <a href="{{ row.link }}" target="_blank">
+            {% if row.window == 'y' %}<a href="{{ row.link }}" target="_blank">{% endif %}
               <img class="item-img" src="assets/images/{{ row.img }}">
             </a>
             <div class="item-text-st">
