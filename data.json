@@ -179,11 +179,14 @@
   ],
   "code": [
     {
-      "name": "The Grade Escape",
-      "img": "grade.png",
-      "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/grade-escape/",
-      "date": 42072,
-      "organization": "North by Northwestern"
+      "name": "Facing the Truth",
+      "img": "facingtruth.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
+      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/diversity",
+      "date": 41974,
+      "organization": "North by Northwestern",
+      "logo": "nbn.png",
+      "tools": "jQuery. Scss. Yeoman."
     },
     {
       "name": "Lord of the Rink",
@@ -222,16 +225,6 @@
       "link": "http://apps.northbynorthwestern.com/magazine/2015/winter/index/",
       "date": 42064,
       "organization": "North by Northwestern"
-    },
-    {
-      "name": "Facing the Truth",
-      "img": "facingtruth.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dictum est vitae tortor fringilla, dapibus iaculis libero euismod. Maecenas sit amet mattis arcu. Donec sem lectus, tincidunt eget quam sed, consequat volutpat metus.",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/diversity",
-      "date": 41974,
-      "organization": "North by Northwestern",
-      "logo": "nbn.png",
-      "tools": "jQuery. Scss. Yeoman."
     },
     {
       "name": "Luckless at Capitol, Minimum Wage Advocates Go Local",
@@ -471,7 +464,7 @@
       "experiences": "Leading a presentation to Time Inc. social departments on how to produce gifs and social cards"
     },
     {
-      "experiences": "Writing an article about the Series of Unfortunate Events with 15 uses of \"V.F.D.\" phrases"
+      "experiences": "Writing an article about the Series of Unfortunate Events with 14 uses of \"V.F.D.\" phrases"
     },
     {
       "experiences": "Helping to produce an app with NU's course API to allow students to choose classes based on their Facebook friends"
