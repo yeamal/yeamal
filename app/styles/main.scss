@@ -21,9 +21,31 @@ a:hover, div.see-more a h3:hover {
 	text-decoration: underline;
 }
 
+.fa-bars {
+	color: $mid-dark;
+	float: right;
+	margin: .5em;
+}
+
+.fa.fa-cogs {
+	margin: 0 1em 0em 1em;
+}
+
+nav h5 .fa {
+	margin: 0 .5em 0em 2em;
+	display: none;
+	@include media($sm-md) {
+		display: inline-block;
+	}
+}
+
 .footer {
 	height: 2.5em;
 	background-color: $mid-dark;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
 }
 
 .footer-about {
@@ -50,26 +72,8 @@ a:hover, div.see-more a h3:hover {
 	}
 }
 
-.fa-bars {
-	color: $mid-dark;
-	float: right;
-	margin: .5em;
-}
-
-.fa.fa-cogs {
-	margin: 0 1em 0em 1em;
-}
-
-nav h5 .fa {
-	margin: 0 .5em 0em 2em;
-	display: none;
-	@include media($sm-md) {
-		display: inline-block;
-	}
-}
-
 .graphic {
-	padding: 2em 0em 0em 0em;
+	padding: 2em 0em 3.5em 0em;
 	background-color: $lightest;
 	min-height: 100%;
 }
@@ -142,6 +146,9 @@ h4 {
 
 html, body {
 	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: $lightest;
 }
 
 hr {
@@ -213,12 +220,13 @@ div.item.four{
 	}
 }
 
-div.item.last{
-	display: none;
-	@include media($sm-md) {
-		display: block;
-	}
-}
+// IF ONLY SHOWING 3 ON MOBILE
+// div.item.last{
+// 	display: none;
+// 	@include media($sm-md) {
+// 		display: block;
+// 	}
+// }
 
 .item-img {
 	width: 100%;
@@ -340,10 +348,6 @@ p {
 	@include clearfix;
 }
 
-.push {
-	height: 2.5em;
-}
-
 .section {
 	padding: .5em 0em .5em 0em;
 	@include clearfix;
@@ -393,8 +397,8 @@ p {
 	}
 }
 
-.tab.active {
-	background-color: $lightest;
+.tab.active, .tab:active {
+	background-color: $lightest !important;
 	h4 {
 		color: $darkest;
 	}	
@@ -459,6 +463,11 @@ ul {
 	list-style-type: square !important;
 	padding: 0em 0em 0em 3em !important;
 	margin: 0;
+}
+
+.wrapper {
+	min-height:100%;
+	position:relative;
 }
 
 .x:after {

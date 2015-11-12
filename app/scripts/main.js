@@ -13,7 +13,7 @@
             $(this).addClass('active');
           }
         });
-
+        
     var newheight = $(window).resize.height;
 
     $(window).resize(function(){      

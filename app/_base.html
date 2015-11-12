@@ -14,26 +14,28 @@
 </head>
 <body>
 
-  <nav class="nav-bar">
-    <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
-    <div class="selection">
-      {% for row in tabs %}
-      <div class="tab" id="{{ row.path }}"><a href="{{ row.page }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
-      {% endfor %}
-    </div>
-  </nav>
+  <div class="wrapper">
 
-  <div class="graphic">
-    <div id="graphic-container">
-    {% block content %}{% endblock %}
-    </div><!--End div#graphic-container-->
-    <div class="push">
+    <nav class="nav-bar">
+      <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
+      <div class="selection">
+        {% for row in tabs %}
+        <div class="tab" id="{{ row.path }}"><a href="{{ row.page }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
+        {% endfor %}
+      </div>
+    </nav>
+
+    <div class="graphic">
+      <div id="graphic-container">
+      {% block content %}{% endblock %}
+      </div><!--End div#graphic-container-->
     </div>
+
+    <div class="footer">
+      <h4 class= "footer-about"><a href="about.html">About this website</a> <i class="fa fa-cogs"></i> <a href="mallory.html"> About this Mallory</a></h4>
+    </div>
+
   </div>
-
-<div class="footer">
-  <h4 class= "footer-about"><a href="about.html">About this website</a> <i class="fa fa-cogs"></i> <a href="mallory.html"> About this Mallory</a></h4>
-</div>
 
 <!--jquery-->
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
@@ -43,6 +45,7 @@
 <script src="scripts/main.js"></script>
 <!-- endbuild -->
 <script async src='https://www.google-analytics.com/analytics.js'></script>
+<script type='application/javascript' src='/path/to/fastclick.js'></script>
 <script>
   window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
   ga('create', 'UA-9827490-1', 'auto');

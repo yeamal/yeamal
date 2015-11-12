@@ -745,9 +745,28 @@ a {
 a:hover, div.see-more a h3:hover {
   text-decoration: underline; }
 
+.fa-bars {
+  color: #52616a;
+  float: right;
+  margin: .5em; }
+
+.fa.fa-cogs {
+  margin: 0 1em 0em 1em; }
+
+nav h5 .fa {
+  margin: 0 0.5em 0em 2em;
+  display: none; }
+  @media screen and (min-width: 575px) {
+    nav h5 .fa {
+      display: inline-block; } }
+
 .footer {
   height: 2.5em;
-  background-color: #52616a; }
+  background-color: #52616a;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%; }
 
 .footer-about {
   padding: .8em 0 0 0; }
@@ -770,23 +789,8 @@ a:hover, div.see-more a h3:hover {
     .four-vid {
       display: block; } }
 
-.fa-bars {
-  color: #52616a;
-  float: right;
-  margin: .5em; }
-
-.fa.fa-cogs {
-  margin: 0 1em 0em 1em; }
-
-nav h5 .fa {
-  margin: 0 0.5em 0em 2em;
-  display: none; }
-  @media screen and (min-width: 575px) {
-    nav h5 .fa {
-      display: inline-block; } }
-
 .graphic {
-  padding: 2em 0em 0em 0em;
+  padding: 2em 0em 3.5em 0em;
   background-color: #f5f9fc;
   min-height: 100%; }
 
@@ -847,7 +851,10 @@ h4 {
       padding: 0 1em 0em 1em; } }
 
 html, body {
-  height: 100%; }
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f9fc; }
 
 hr {
   width: 80%;
@@ -914,12 +921,6 @@ div.item.four {
   @media screen and (min-width: 1350px) {
     div.item.four {
       clear: both; } }
-
-div.item.last {
-  display: none; }
-  @media screen and (min-width: 575px) {
-    div.item.last {
-      display: block; } }
 
 .item-img {
   width: 100%; }
@@ -1037,9 +1038,6 @@ p {
   height: 0;
   visibility: hidden; }
 
-.push {
-  height: 2.5em; }
-
 .section {
   padding: 0.5em 0em 0.5em 0em;
   position: relative;
@@ -1087,9 +1085,9 @@ p {
     .selection {
       margin: 0 1em; } }
 
-.tab.active {
-  background-color: #f5f9fc; }
-  .tab.active h4 {
+.tab.active, .tab:active {
+  background-color: #f5f9fc !important; }
+  .tab.active h4, .tab:active h4 {
     color: #1d1f21; }
 
 .tab.selected {
@@ -1145,6 +1143,10 @@ ul {
   list-style-type: square !important;
   padding: 0em 0em 0em 3em !important;
   margin: 0; }
+
+.wrapper {
+  min-height: 100%;
+  position: relative; }
 
 .x:after {
   display: none; }
