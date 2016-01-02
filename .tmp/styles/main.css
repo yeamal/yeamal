@@ -793,6 +793,10 @@ nav h5 .fa {
   padding: 0em 0em 2.5em 0em;
   background-color: #f5f9fc; }
 
+#graphic-container {
+  padding-top: 1em;
+  padding-bottom: 1.5em; }
+
 h1, h5 {
   font-weight: 800; }
 
@@ -858,7 +862,7 @@ html, body {
 hr {
   width: 80%;
   height: 1px;
-  margin: 1.5em 0em 1.5em 0em;
+  margin: 0em;
   margin-right: auto;
   margin-left: auto;
   color: #52616a; }
@@ -1038,7 +1042,7 @@ p {
   visibility: hidden; }
 
 .section {
-  padding: 0.5em 0em 0.5em 0em;
+  padding: 1em 0em 0em 0em;
   position: relative;
   margin: 0% 3% 0% 3%; }
   .section:after {
