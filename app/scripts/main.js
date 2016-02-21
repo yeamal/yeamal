@@ -6,14 +6,14 @@
   var pymChild;
 
   function render() {
+  
+    $('.section').click(function(){
+      $('cool').removeClass('cool');
+      $(this).addClass('cool');
+    });
 
-    //tab colors
-        $('.tab').each(function() {
-          if (this.id === window.location.pathname) {
-            $(this).addClass('active');
-          }
-        });
-        
+
+    //window resize (for togglings details)    
     var newheight = $(window).resize.height;
 
     $(window).resize(function(){      

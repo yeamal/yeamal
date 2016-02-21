@@ -29,7 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
       <div class="selection">
         {% for row in tabs %}
-        <div class="tab" id="{{ row.path }}"><a href="{{ row.page }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
+        <div class="tab"><a href="{{ row.page }}" class="anchor"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
         {% endfor %}
       </div>
     </nav>
