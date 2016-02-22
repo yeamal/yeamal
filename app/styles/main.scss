@@ -40,6 +40,41 @@ nav h5 .fa {
 	}
 }
 
+.featured {
+	width: 100%;
+	margin: 40px 0 40px 0;
+	margin-right: auto;
+	margin-left: auto;
+	@include media (850px) {
+		width: 90%;
+	}
+}
+
+.featured-hed {
+	text-align: center;
+	width: 100%;
+	margin: 10px 0 30px 0;
+}
+
+.featured-img {
+	width: 100%;
+	float: left;
+	padding: 1em;
+	@include media (850px) {
+		width: 50%;
+	}
+}
+
+.featured-text {
+	width: 100%;
+	float: left;
+	padding: 1em;
+	@include media (850px) {
+		width: 50%;
+		padding: 0 1em 0 1em;
+	}
+}
+
 .footer {
 	background-color: $mid-dark;
 	width: 100%;
@@ -58,6 +93,11 @@ nav h5 .fa {
 
 .footer-about a {
 	color: $mid-light;
+}
+
+.footer-about a:hover {
+	color: $mid-light;
+	text-decoration: underline;
 }
 
 .four-vid {
@@ -150,9 +190,16 @@ h4 {
 	}
 }
 
+.section h2.hello-bold {
+	font-weight: 600;
+}
+
 .hello-text {
 	width: 100%;
-	padding: 0 0 0 20px;
+	padding: 1em;
+	h1, h2 {
+		text-align: center;
+	}
 	h3 {
 		padding: 0;
 	}
@@ -161,6 +208,9 @@ h4 {
 		align-self:center;
 		float: left;
 		max-width: 500px;
+		h1, h2 {
+			text-align: left;
+		}
 	}
 }
 
@@ -328,6 +378,16 @@ div.item.four{
 	background-color: $mid-dark;
 }
 
+.me-link, .info-hide h3, .info-show h3 {
+	background-color: $mid-light;
+	padding: 0 .2em 0 .2em;
+	color: $mid-dark;
+}
+
+.me-link:hover, .info-hide h3:hover, .info-show h3:hover {
+	color: $lightest;
+}
+
 .more-links {
 	@include media ($sm-md) {
 		-webkit-column-count: 2; /* Chrome, Safari, Opera */
@@ -467,7 +527,7 @@ p {
    	padding: .5em;
    	margin: .5em;
    	h2 {
-   		color: $mid-dark;
+   		color: $darkest;
    		margin: 0 0 .4em;
    	}
 }

@@ -761,6 +761,37 @@ nav h5 .fa {
     nav h5 .fa {
       display: inline-block; } }
 
+.featured {
+  width: 100%;
+  margin: 40px 0 40px 0;
+  margin-right: auto;
+  margin-left: auto; }
+  @media screen and (min-width: 850px) {
+    .featured {
+      width: 90%; } }
+
+.featured-hed {
+  text-align: center;
+  width: 100%;
+  margin: 10px 0 30px 0; }
+
+.featured-img {
+  width: 100%;
+  float: left;
+  padding: 1em; }
+  @media screen and (min-width: 850px) {
+    .featured-img {
+      width: 50%; } }
+
+.featured-text {
+  width: 100%;
+  float: left;
+  padding: 1em; }
+  @media screen and (min-width: 850px) {
+    .featured-text {
+      width: 50%;
+      padding: 0 1em 0 1em; } }
+
 .footer {
   background-color: #4d729a;
   width: 100%;
@@ -777,6 +808,10 @@ nav h5 .fa {
 
 .footer-about a {
   color: #c3d2e2; }
+
+.footer-about a:hover {
+  color: #c3d2e2;
+  text-decoration: underline; }
 
 .four-vid {
   display: none; }
@@ -861,9 +896,14 @@ h4 {
           -ms-flex-pack: center;
               justify-content: center; } }
 
+.section h2.hello-bold {
+  font-weight: 600; }
+
 .hello-text {
   width: 100%;
-  padding: 0 0 0 20px; }
+  padding: 1em; }
+  .hello-text h1, .hello-text h2 {
+    text-align: center; }
   .hello-text h3 {
     padding: 0; }
   @media screen and (min-width: 575px) {
@@ -873,7 +913,9 @@ h4 {
           -ms-flex-item-align: center;
               align-self: center;
       float: left;
-      max-width: 500px; } }
+      max-width: 500px; }
+      .hello-text h1, .hello-text h2 {
+        text-align: left; } }
 
 .hello-img {
   float: left;
@@ -1026,6 +1068,14 @@ div.item.four {
 .m:hover {
   background-color: #4d729a; }
 
+.me-link, .info-hide h3, .info-show h3 {
+  background-color: #c3d2e2;
+  padding: 0 0.2em 0 0.2em;
+  color: #4d729a; }
+
+.me-link:hover, .info-hide h3:hover, .info-show h3:hover {
+  color: #f5f9fc; }
+
 .more-links {
   margin-right: auto;
   margin-left: auto;
@@ -1158,7 +1208,7 @@ p {
   padding: .5em;
   margin: .5em; }
   .team h2 {
-    color: #4d729a;
+    color: #1d1f21;
     margin: 0 0 0.4em; }
 
 ul {

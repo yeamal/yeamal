@@ -81,7 +81,7 @@
   ],
   "tabs": [
     {
-      "name": "Code",
+      "name": "Code + Data",
       "fa": "fa-code",
       "page": "code.html",
       "id": "code",

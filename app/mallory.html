@@ -2,21 +2,13 @@
 
 {% block content %}
 <div class="section">
-	<h1>Get in touch</h1>
-	{% for row in contact %}
-		<ul>
-			<li>{{ row.type }}: <a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
-		</ul>
-	{% endfor %}
-</div>
-<div class="section">
-	<h1>A Little About Me</h1>
-	{% for row in mallory %}
-	<p>{{ row.start }}</p>
-	<ul>
-		<li class="about-li">{{ row.experiences }}</li>
-	</ul>
-	<p>{{ row.end }}</p>
-	{% endfor %}
+    <div class="hello">
+        <img class="hello-img" src="assets/images/mallorybusch.jpg">
+      <div class="hello-text">
+        <h2 class="hello-bold">Hi, I'm Mallory. I'm a data journalist.</h2>
+        <h3>Currently at <a href="https://twitter.com/ChiTribGraphics" class="me-link" target="_blank">Chicago Tribune Graphics</a>, I've also had gigs with The Texas Tribune, TIME and Knight Lab.</h3>
+        <h3>Like what you see? Send me an <a href="mailto:m.mallorybusch@gmail.com" class="me-link" target="_blank">email</a>, connect on <a href="https://fr.linkedin.com/in/yeamal" class="me-link" target="_blank">LinkedIn</a> or check out my <a href="https://twitter.com/yeamal" class="me-link" target="_blank">Twitter</a>.</h3>
+      </div>
+    </div>      
 </div>
 {% endblock %}
