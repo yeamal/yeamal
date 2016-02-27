@@ -38,6 +38,16 @@
 			<h2>North by Northwestern</h2>
 			<ul>
 				{% for row in code %}
+					{% if row.organization == 'Knight Lab' %}
+					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="team">
+			<h2>North by Northwestern</h2>
+			<ul>
+				{% for row in code %}
 					{% if row.organization == 'North by Northwestern' %}
 					<li><a href="{{ row.link }}" target="_blank">{{ row.name }}</a></li>
 					{% endif %}

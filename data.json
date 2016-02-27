@@ -4,6 +4,37 @@
   },
   "frontcode": [
     {
+      "name": "85 Bears Explorer",
+      "img": "bears.png",
+      "link": "http://www.chicagotribune.com/sports/football/bears/ct-graphics-bears85-htmlstory.html?utm_content=buffer10c13&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+      "date": 42419,
+      "organization": "Chicago Tribune",
+      "position": "Graphics Intern",
+      "logo": "chicagotribune.png",
+      "tools": "HTML. Sass. jQuery."
+    },
+    {
+      "name": "Chicago's snowfall only seems small this year",
+      "img": "snowfall.png",
+      "link": "http://www.chicagotribune.com/news/weather/ct-chicago-winter-amount-snowfall-htmlstory.html",
+      "date": 42414,
+      "organization": "Chicago Tribune",
+      "position": "Graphics Intern",
+      "logo": "chicagotribune.png",
+      "tools": "ai2html. HTML. Scss. Excel."
+    },
+    {
+      "name": "Map of Texas Emergency Centers",
+      "img": "map.png",
+      "description": "In Texas, there's a \"Baby Moses\" law that allows a parent to safely abandon a newborn at some sort of care center, if they cannot provide for the child. A new law included freestanding emergency centers in this list of dropoff centers. I used a clustermap to show where these centers were, after grabbing the addresses from an Excel file and using Google Fusion Tables and Google Earth to find their lat and long.",
+      "link": "http://www.texastribune.org/2015/08/15/new-option-parents-hoping-safely-abandon-newborn/",
+      "date": 42231,
+      "organization": "The Texas Tribune",
+      "logo": "texas.png",
+      "tools": "Excel. Fusion Tables. CSVKit. Google Earth. MapBox.",
+      "two": "y"
+    },
+    {
       "name": "Failing Schools Flowchart",
       "img": "flowchart.png",
       "description": "My solution to a story dealing with an extremely complex law was this: design a clear, informative flowchart that correctly outlines the new law for our community audience. On mobile, the flowchart displays slightly different text in order to communicate the same points with a separate design (as a complex flowchart would not work well on a mobile screen). The flowchart was well-received and resulted in community requests for a PDF version to use at meetings (which I obliged).",
@@ -11,18 +42,10 @@
       "date": 42229,
       "position": "News Apps Fellow",
       "logo": "texas.png",
-      "tools": "JavaScript. Scss."
-    },
-    {
-      "name": "Map of Texas Emergency Centers",
-      "img": "map.png",
-      "description": "In Texas, there's a \"Baby Moses\" law that allows a parent to safely abandon a newborn at some sort of care center, if they cannot provide for the child. A new law included freestanding emergency centers in this list of dropoff centers. I used a clustermap to show where these centers were, after grabbing the addresses from an Excel file and using Google Fusion Tables and Google Earth to find their lat and long.",
-      "classes": "code",
-      "link": "http://www.texastribune.org/2015/08/15/new-option-parents-hoping-safely-abandon-newborn/",
-      "date": 42231,
-      "organization": "The Texas Tribune",
-      "logo": "texas.png",
-      "tools": "Excel. Fusion Tables. CSVKit. Google Earth. MapBox."
+      "tools": "JavaScript. Sass.",
+      "three": "y",
+      "long": "y",
+      "last": "y"
     },
     {
       "name": "Breakdown: Texas County Jails Deaths",
@@ -32,50 +55,21 @@
       "date": 42209,
       "position": "News Apps Fellow",
       "logo": "texas.png",
-      "tools": "Excel. Font Awesome. Scss.",
-      "two": "y"
-    },
-    {
-      "name": "At Majority-Minority Schools, Confederate Names Remain",
-      "img": "confed-schools.png",
-      "description": "Debate over the Confederate flag had just erupted, and in the first week of my Texas Tribune internship I pitched a story about the demographics of Texas schools named after Confederate figures. After combing through data and calling schools to verifying their name origins, I used Texas Education Agency data to visualize the racial make-up of children attending these schools. In the end, I verified 29 public schools in Texas named after prominent Confederate figures, 23 of which were majority-minority. Each school graphic included the number of students attending it for context.",
-      "classes": "code",
-      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
-      "date": 42186,
-      "organization": "The Texas Tribune",
-      "position": "News Apps Fellow",
-      "logo": "texas.png",
-      "tools": "Excel. CSVkit. Scss. ",
-      "three": "y",
-      "long": "y",
-      "last": "y"
-    },
-    {
-      "name": "Putting on a Happy Face",
-      "img": "happyface.png",
-      "description": "In the fall and winter of my junior year at Northwestern (2014-2015) I spearheaded an initiative to bring a traditionally print student magazine fully online – with dedicated pages and immersive experiences for each article, rather than just copying and pasting each article in a CMS. For the fall issue, my team gave eight articles this special treatment. For the winter, we did all 30+. This featured article, \"Putting on a Happy Face,\" was in the batch of those I designed for the fall group. It later went on to place third nationally in digital design in MSU's Society of News Design awards, the highest placement for a non-team project.",
-      "classes": "code",
-      "link": "http://apps.northbynorthwestern.com/magazine/2014/fall/evanston/",
-      "date": 41974,
-      "organization": "North by Northwestern",
-      "position": "Digital Producer",
-      "logo": "nbn.png",
-      "tools": "Scss. Timeline. Datawrapper. Yeoman.",
+      "tools": "Excel. Font Awesome. Sass.",
       "two": "y",
       "four": "y",
       "last": "y"
     },
     {
-      "name": "Romaine",
-      "img": "romaine.gif",
-      "description": "Romaine is an initiative I and three friends (Ashley Wu, Suyeon Son and Nicole Zhu) worked on during our fall 2014 fellowship with Northwestern University Knight Lab. It's an app that uses NU's course API and Facebook's friends API to allow users to choose upcoming classes for registration based on the ones which their friends have chosen. The project was led by Son and Zhu, while the majority of my contribution to this app was based in its User Experience and Search Design.",
-      "classes": "code",
-      "link": "https://romaine.herokuapp.com/",
-      "date": 41974,
-      "organization": "Knight Lab",
-      "position": "Student Fellow",
-      "logo": "knightlab.png",
-      "tools": "JavaScript. CSS.",
+      "name": "At Majority-Minority Schools, Confederate Names Remain",
+      "img": "confed-schools.png",
+      "description": "Debate over the Confederate flag had just erupted, and in the first week of my Texas Tribune internship I pitched a story about the demographics of Texas schools named after Confederate figures. After combing through data and calling schools to verifying their name origins, I used Texas Education Agency data to visualize the racial make-up of children attending these schools. In the end, I verified 29 public schools in Texas named after prominent Confederate figures, 23 of which were majority-minority. Each school graphic included the number of students attending it for context.",
+      "link": "http://www.texastribune.org/2015/07/01/majority-minority-schools-confederate-names/",
+      "date": 42186,
+      "organization": "The Texas Tribune",
+      "position": "News Apps Fellow",
+      "logo": "texas.png",
+      "tools": "Excel. CSVkit. Sass. ",
       "last": "y"
     }
   ],
@@ -244,6 +238,24 @@
       "link": "http://www.texastribune.org/2015/08/08/new-truancy-law-puts-pressure-schools/",
       "date": 42224,
       "organization": "The Texas Tribune"
+    },
+    {
+      "name": "Romaine – The social class-choosing app",
+      "link": "https://romaine.herokuapp.com/",
+      "date": 41974,
+      "organization": "Knight Lab"
+    },
+    {
+      "name": "85 Bears Explorer",
+      "link": "http://www.chicagotribune.com/sports/football/bears/ct-graphics-bears85-htmlstory.html?utm_content=buffer10c13&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+      "date": 42419,
+      "organization": "Chicago Tribune"
+    },
+    {
+      "name": "Data: Chicago's snowfall only seems small this year",
+      "link": "http://www.chicagotribune.com/news/weather/ct-chicago-winter-amount-snowfall-htmlstory.html",
+      "date": 42414,
+      "organization": "Chicago Tribune"
     }
   ],
   "SOS": [
