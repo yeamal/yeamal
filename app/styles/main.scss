@@ -13,6 +13,10 @@ $sm-md: 575px;
 $medium: 950px;
 $large: 1350px;
 
+.test {
+	background-color: yellow;
+}
+
 a {
 	color: $mid-dark;
 }
@@ -120,7 +124,7 @@ nav h5 .fa {
 }
 
 #graphic-container {
-	padding-top: 1em;
+	top:0;
 	padding-bottom: 1.5em;
 }
 
@@ -425,7 +429,7 @@ p {
 }
 
 .section {
-	padding: 1em 0em 0em 0em;
+	padding: 2em 0em 0em 0em;
 	@include clearfix;
 	position: relative;
 	margin: 0% 3% 0% 3%;
@@ -473,20 +477,6 @@ p {
 	}
 }
 
-.tab.active, .tab:active {
-	background-color: $lightest !important;
-	h4 {
-		color: $darkest;
-	}	
-}
-
-.tab.selected {
-	background-color: $lightest;
-	h4 {
-		color: $darkest;
-	}
-}
-
 .tab {
     float: left;
     padding: .5em 0em .25em 0em;
@@ -510,10 +500,6 @@ p {
     		padding: 0;
     	}
     }
-}
-
-.tab.active i.fa {
-	color: $darkest;
 }
 
 .tab:hover {

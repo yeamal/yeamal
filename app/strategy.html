@@ -1,6 +1,14 @@
 {% extends "_base.html" %}
 
 {% block content %}
+  <nav class="nav-bar">
+    <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
+    <div class="selection">
+      {% for row in tabs %}
+      <div class="tab" id="{{ row.id }}" style="{% if row.id == 'strategyTab' %}background-color:#f5f9fc;{% endif %}"><a href="{{ row.page }}"><h4 style="{% if row.id == 'strategyTab' %}color:#1d1f21;{% endif %}">{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
+      {% endfor %}
+    </div>
+  </nav>
 	<div class="section" id="audience">
       <h1>Audience Strategy</h1>
       <div class="info-hide" id="info-hide-st"><h3>(Hide descriptions...)</h3></div>

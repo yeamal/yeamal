@@ -739,6 +739,9 @@ a {
   margin: 0;
   padding: 0; }
 
+.test {
+  background-color: yellow; }
+
 a {
   color: #4d729a; }
 
@@ -837,7 +840,7 @@ nav h5 .fa {
   background-color: #f5f9fc; }
 
 #graphic-container {
-  padding-top: 1em;
+  top: 0;
   padding-bottom: 1.5em; }
 
 h1, h5 {
@@ -1116,7 +1119,7 @@ p {
   visibility: hidden; }
 
 .section {
-  padding: 1em 0em 0em 0em;
+  padding: 2em 0em 0em 0em;
   position: relative;
   margin: 0% 3% 0% 3%; }
   .section:after {
@@ -1162,16 +1165,6 @@ p {
     .selection {
       margin: 0 1em; } }
 
-.tab.active, .tab:active {
-  background-color: #f5f9fc !important; }
-  .tab.active h4, .tab:active h4 {
-    color: #1d1f21; }
-
-.tab.selected {
-  background-color: #f5f9fc; }
-  .tab.selected h4 {
-    color: #1d1f21; }
-
 .tab {
   float: left;
   padding: 0.5em 0em 0.25em 0em;
@@ -1193,9 +1186,6 @@ p {
       .tab i.fa {
         display: none;
         padding: 0; } }
-
-.tab.active i.fa {
-  color: #1d1f21; }
 
 .tab:hover {
   background-color: #4d729a;

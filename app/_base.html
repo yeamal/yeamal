@@ -25,14 +25,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   <div class="wrapper">
 
-    <nav class="nav-bar">
+    <!-- <nav class="nav-bar">
       <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
       <div class="selection">
         {% for row in tabs %}
-        <div class="tab"><a href="{{ row.page }}" class="anchor"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
+        <div class="tab" id="{{ row.id }}"><a href="{{ row.page }}"><h4>{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
         {% endfor %}
       </div>
-    </nav>
+    </nav> -->
 
     <div class="graphic">
       <div id="graphic-container">
@@ -47,13 +47,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 
 <!--jquery-->
-<script src="bower_components/jquery/dist/jquery.min.js"></script>
-<script src="bower_components/jquery/dist/jquery.js"></script>
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <!-- build:js scripts/main.min.js -->
 <script src="/node_modules/pym.js/dist/pym.js"></script>
 <script src="scripts/main.js"></script>
 <!-- endbuild -->
-<script type='application/javascript' src='/path/to/fastclick.js'></script>
 <script>
   window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
   ga('create', 'UA-9827490-1', 'auto');

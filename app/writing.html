@@ -1,6 +1,16 @@
 {% extends "_base.html" %}
 
 {% block content %}
+
+	<nav class="nav-bar">
+	  <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
+	  <div class="selection">
+	    {% for row in tabs %}
+	    <div class="tab" id="{{ row.id }}" style="{% if row.id == 'writingTab' %}background-color:#f5f9fc;{% endif %}"><a href="{{ row.page }}"><h4 style="{% if row.id == 'writingTab' %}color:#1d1f21;{% endif %}">{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
+	    {% endfor %}
+	  </div>
+	</nav>
+
 	<div class="section">
 		<h1>Writing</h1>
 		<div class="team">

@@ -12,7 +12,6 @@
       $(this).addClass('cool');
     });
 
-
     //window resize (for togglings details)    
     var newheight = $(window).resize.height;
 
@@ -65,7 +64,6 @@
             $('#info-show-vd').show(1000);
             $('#info-hide-vd').hide(1000);
         });
-
 
     if (pymChild) {
       pymChild.sendHeight();

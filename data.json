@@ -6,22 +6,24 @@
     {
       "name": "85 Bears Explorer",
       "img": "bears.png",
+      "description": "This is a project I started on during my first week at the Chicago Tribune –– most of the reporting had been completed, but I worked with the reporter to design an explorer that would suit the audience's needs –– giving them the ability to explore all profiles (for the devoted fans) or research an individual member. Each player has a unique URL to maximize evergreen content, and individual profiles will be updated when a subject is in the news.",
       "link": "http://www.chicagotribune.com/sports/football/bears/ct-graphics-bears85-htmlstory.html?utm_content=buffer10c13&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
       "date": 42419,
       "organization": "Chicago Tribune",
       "position": "Graphics Intern",
       "logo": "chicagotribune.png",
-      "tools": "HTML. Sass. jQuery."
+      "tools": "HTML. Sass. jQuery. Jinja."
     },
     {
-      "name": "Chicago's snowfall only seems small this year",
+      "name": "Chicago's snowfall this year",
       "img": "snowfall.png",
+      "description": "This was a quick turnaround project –– a snowfall was coming to the Chicago, and I grabbed data on snowfalls going back to the 1800s to compare this year's weather with the rest. The story: although it's actually a normal winter, Chicago's snow this year seems so small because the last six out of eight years have been above average.",
       "link": "http://www.chicagotribune.com/news/weather/ct-chicago-winter-amount-snowfall-htmlstory.html",
       "date": 42414,
       "organization": "Chicago Tribune",
       "position": "Graphics Intern",
       "logo": "chicagotribune.png",
-      "tools": "ai2html. HTML. Scss. Excel."
+      "tools": "ai2html. HTML. Sass. Excel."
     },
     {
       "name": "Map of Texas Emergency Centers",
@@ -78,28 +80,28 @@
       "name": "Code + Data",
       "fa": "fa-code",
       "page": "code.html",
-      "id": "code",
+      "id": "codeTab",
       "path": "/code.html"
     },
     {
       "name": "Strategy",
       "fa": "fa-users",
       "page": "strategy.html",
-      "id": "strategy",
+      "id": "strategyTab",
       "path": "/strategy.html"
     },
     {
       "name": "Video",
       "fa": "fa-video-camera",
       "page": "video.html",
-      "id": "video",
+      "id": "videoTab",
       "path": "/video.html"
     },
     {
       "name": "Writing",
       "fa": "fa-pencil",
       "page": "writing.html",
-      "id": "writing",
+      "id": "writingTab",
       "path": "/writing.html"
     }
   ],
