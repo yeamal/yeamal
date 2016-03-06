@@ -6,7 +6,7 @@
 	  <a href="index.html"><img class="m" src="assets/images/m.png" type="image/png"></a>
 	  <div class="selection">
 	    {% for row in tabs %}
-	    <div class="tab" id="{{ row.id }}" style="{% if row.id == 'codeTab' %}background-color:#f5f9fc;{% endif %}"><a href="{{ row.page }}"><h4 style="{% if row.id == 'codeTab' %}color:#1d1f21;{% endif %}">{{ row.name }}</h4><i class="fa {{ row.fa }}"></i></a></div>
+	    <div class="tab" id="{{ row.id }}" style="{% if row.id == 'codeTab' %}background-color:#f5f9fc;{% endif %}"><a href="{{ row.page }}"><h4 style="{% if row.id == 'codeTab' %}color:#1d1f21;{% endif %}">{{ row.name }}</h4><i class="fa {{ row.fa }} {% if row.id == 'codeTab' %}iconTab{% endif %}"></i></a></div>
 	    {% endfor %}
 	  </div>
 	</nav>

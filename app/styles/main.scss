@@ -252,6 +252,13 @@ hr {
 	color: $mid-dark;
 }
 
+.tab i.fa.iconTab {
+	color: $darkest;
+	@include media ($small) {
+
+	}
+}
+
 .info-hide {
 	display: none;
 }

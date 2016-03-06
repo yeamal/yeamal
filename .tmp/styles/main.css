@@ -955,6 +955,9 @@ hr {
   margin-left: auto;
   color: #4d729a; }
 
+.tab i.fa.iconTab {
+  color: #1d1f21; }
+
 .info-hide {
   display: none; }
 
